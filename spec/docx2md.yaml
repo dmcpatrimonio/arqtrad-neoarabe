@@ -1,7 +1,0 @@
-fail-if-warnings       : True
-file-scope             : True
-standalone             : True
-from                   : 'docx'
-to                     : 'markdown'
-columns                : 72
-reference-location     : 'block'
