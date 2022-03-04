@@ -5,14 +5,15 @@ VPATH = lib
 vpath %.csl styles
 vpath %.yaml .:spec
 vpath default.% lib/pandoc-templates
+vpath %.bib .:bibliography
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-%.docx : article_docx.yaml %.md | styles
-	docker run --user "`id -u`:`id -g`" \
-		-v "`pwd`:/data" pandoc/crossref:2.10.1 \
-		-o $@ -d $^
+<<<<<<< HEAD
+%.pdf : %.md biblio.bib pdf.yaml
+	docker run --rm -v "`pwd`:/data" --user `id -u`:`id -g` \
+		pandoc/latex:2.9.2.1 $< -d spec/pdf.yaml -o $@
 
 %.md : docx2md.yaml %.docx
 	docker run --user "`id -u`:`id -g`" \

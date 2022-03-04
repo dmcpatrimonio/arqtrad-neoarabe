@@ -1,7 +1,5 @@
 # Neoárabe: caminhos da arquitetura árabe no Brasil #
 
-[Proposta de publicação](proposta.md)
-
 ## Sumário do livro ##
 
 - Prefácio
