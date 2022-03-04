@@ -155,15 +155,7 @@ diante de situações extremadas ou evocativas. O que explica o encanto
 por vestígios do passado, como ruínas, e por paisagens grandiosas, como
 montanhas ou desfiladeiros.
 
-![](media/image1.jpeg){width="2.4722222222222223in"
-height="3.1666666666666665in"}
-
-***O caminhante sobre o mar de névoa* (1818), de Caspar David Friedrich,
-é considerado uma representação do espírito romântico.**
-
-**Fonte:
-\<https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich\_-\_Wanderer_above_the_sea_of_fog.jpg\>.
-Acesso em: 19 nov. 2018.**
+![*O caminhante sobre o mar de névoa* (1818), de Caspar David Friedrich, é considerado uma representação do espírito romântico. Fonte: <https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich\_-\_Wanderer_above_the_sea_of_fog.jpg>. Acesso em: 19 nov. 2018.](media/image1.jpeg){#fig:caspar}
 
 As manifestações sublimes não deixaram de ser apreciadas, como demonstra
 as legiões de turistas que acorrem a visitar Niagara Falls e as
