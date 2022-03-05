@@ -9,11 +9,7 @@ keywords          : [História da Arquitetura, Regionalismo, Neoárabe]
 header-includes:
 - type            : collection
   text            : 'Arquitetura ibérica: de al-Andalus ao Brasil'
-date              : "23 de outubro de 2019"
-lang              : "pt-BR"
-csl               : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
-bibliography      : '_data/biblio.yaml'
-bibliography-title: 'Referências Bibliográficas'
+date              : "2019-10-23"
 ---
 
 Introdução: das reminiscências ao revivalismo

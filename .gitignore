@@ -10,12 +10,6 @@
 ## Book build output
 _book
 
-# For when you want to keep downloaded or received files next to your
-# repo without committing them (bc they're usually binaries).
-_share
-fig
-media
-
 # Jekyll {{{1
 _site/
 .sass-cache/
@@ -23,6 +17,7 @@ _site/
 .jekyll-metadata
 .vendor/
 .bundle/
+Gemfile.lock
 
 # eBook build output {{{1
 *.epub
