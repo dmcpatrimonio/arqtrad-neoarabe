@@ -65,7 +65,7 @@
   font-style: normal;
 }
 
-$paragraph-indent: true;
+$paragraph-indent: false;
 $sans-serif: 'UnB Pro', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $serif: $sans-serif;
 
@@ -115,4 +115,108 @@ span.keywords-title {
 	font-weight: bold;
 }
 
-// vim: set shiftwidth=2 tabstop=2 :
+span.sidenote,
+span.marginnote {
+    display: none;
+    @include breakpoint($large) {
+        display: block;
+    }
+}
+
+.align-right,
+.sidenote,
+.marginnote {
+    color: $text-color;
+    font-size: $type-size-6;
+    font-weight: 500;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
+    text-align: left;
+    @include breakpoint($large) {
+        float: right;
+        clear: right;
+        width: $right-sidebar-width-narrow;
+        margin: 0.3rem calc(0px - #{$right-sidebar-width-narrow}) 0 0;
+        padding-left: 1em;
+    }
+    @include breakpoint($x-large) {
+        width: $right-sidebar-width;
+        margin-right: calc(0px - #{$right-sidebar-width});
+    }
+}
+
+.margin-toggle:checked + .sidenote,
+.margin-toggle:checked + .marginnote {
+    display: block;
+    float: left;
+    left: 1rem;
+    clear: both;
+    width: 95%;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative;
+}
+
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+.sidenote-number,
+.sidenote-number:after,
+.sidenote:before {
+    font-family: $global-font-family;
+    font-variant: oldstyle-nums;
+    font-weight: 500;
+}
+
+.sidenote-number:after,
+.sidenote:before {
+    position: relative;
+    vertical-align: baseline;
+}
+
+.sidenote-number:after {
+    content: counter(sidenote-counter);
+    font-size: $type-size-6;
+    top: -0.5rem;
+    left: 0.1rem;
+}
+
+.sidenote:before {
+    content: counter(sidenote-counter) " ";
+    font-size: $type-size-5;
+    top: -0.5rem;
+}
+
+label {
+    cursor: pointer;
+}
+
+blockquote .sidenote,
+blockquote .marginnote {
+    text-align: left;
+    @include breakpoint($large) {
+        margin-right: calc(0px - #{$right-sidebar-width-narrow} - 2rem);
+    }
+    @include breakpoint($x-large) {
+        margin-right: calc(0px - #{$right-sidebar-width} - 2rem);
+    }
+}
+
+input.margin-toggle {
+    display: none;
+}
+
+label.sidenote-number {
+    display: inline;
+}
+
+label.margin-toggle:not(.sidenote-number) {
+    display: inline;
+    @include breakpoint($large) {
+        display: none;
+    }
+}
+
+// vim: set shiftwidth=2 tabstop=2 foldmethod=indent :
