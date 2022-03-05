@@ -1,0 +1,15 @@
+sumario:
+  - title: "Sumário"
+    children:
+      - title: "Introdução"
+        url: "/intro/"
+      - title: "A arte islâmica nos caminhos da rota da Seda"
+        url: "/clpalazzo/"
+      - title: "Reminiscências árabes na arquitetura luso-brasileira"
+        url: "/ppalazzo/"
+      - title: "Alhambras: arquitetura neoárabe na América latina"
+        url: "/lopez/"
+      - title:  "A desconstrução do Ecletismo: modernismo vs. historicismo"
+        url: "/ficher/"
+      - title: "Presença árabe no Brasil e a herança ibérica"
+        url: "/el-moor/"

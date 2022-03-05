@@ -1,12 +1,14 @@
 from                  : markdown
-to                    : markdown
+to                    : gfm
 standalone            : true
 file-scope            : true
 fail-if-warnings      : true
-number-sections       : false
+number-sections       : true
+shift-heading-level-by: 1
 filters:
   - pandoc-crossref
   - citeproc
+  - pandoc-sidenote
 metadata:
   bibliography: _data/biblio.yaml
   csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"

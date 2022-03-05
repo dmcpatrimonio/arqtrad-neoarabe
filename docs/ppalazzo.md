@@ -1,12 +1,9 @@
 ---
 title: 'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
 author: Pedro P. Palazzo
-abstract: 
-keywords          : [História da Arquitetura, Regionalismo, Neoárabe]
-header-includes:
-- type            : collection
-  text            : 'Arquitetura ibérica: de al-Andalus ao Brasil'
-date              : "2019-10-23"
+keywords: [História da Arquitetura, Regionalismo, Neoárabe]
+permalink: /ppalazzo/
+date: "2019-10-23"
 ---
 
 Introdução: das reminiscências ao revivalismo

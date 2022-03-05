@@ -1,6 +1,7 @@
 ---
 title: "A desconstrução do Ecletismo: modernismo vs. historicismo"
 author: Sylvia Ficher
+permalink: "/ficher/"
 ---
 
 ## Resumo ##

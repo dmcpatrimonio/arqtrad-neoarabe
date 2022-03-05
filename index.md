@@ -1,6 +1,9 @@
 ---
 title: Apresentação
 layout: single
+header:
+  overlay_image:
+  caption:
 ---
 
 O lugar privilegiado das reminiscências históricas e influências
