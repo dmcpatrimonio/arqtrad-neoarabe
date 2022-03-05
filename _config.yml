@@ -150,6 +150,7 @@ exclude:
   - vendor
   - .asset-cache
   - .bundle
+  - .gitignore
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins

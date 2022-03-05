@@ -8,5 +8,6 @@ filters:
   - pandoc-crossref
   - citeproc
 metadata:
+  bibliography: _data/biblio.yaml
   csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
   suppress-bibliography: true

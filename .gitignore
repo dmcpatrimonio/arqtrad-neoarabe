@@ -11,6 +11,7 @@
 _book
 
 # Jekyll {{{1
+_pages/
 _site/
 .sass-cache/
 .jekyll-cache/

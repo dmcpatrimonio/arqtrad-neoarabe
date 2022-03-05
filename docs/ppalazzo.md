@@ -1,9 +1,6 @@
 ---
-title:            : 'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
-author:
-- name            : 'Pedro Paulo Palazzo'
-  institute       : 'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
-  email           : 'palazzo@unb.br'
+title: 'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
+author: Pedro P. Palazzo
 abstract: 
 keywords          : [História da Arquitetura, Regionalismo, Neoárabe]
 header-includes:
@@ -767,10 +764,10 @@ Portugal, de modo um tanto obscuro e abstrato:
 > inesperada de situações autónomas, mas interdependentes.
 > [@carita:1999oriente, p. 43]
 
-[^einfuehlung]: @wolfflin:1948kunstgeschichtliche. A adesão
+[^einfuehlung]: @woelfflin:1948kunstgeschichtliche. A adesão
 de Wölfflin à teoria da empatia fora mais forte em sua tese
 de doutorado, declinando ao longo de sua carreira
-subsequente. Ver @wolfflin:1886prolegomena.
+subsequente. Ver @woelfflin:1886prolegomena.
 
 A proposição, que não deixa de ser instigante numa visão de
 conjunto, deixa entretanto abertas todas as interrogações

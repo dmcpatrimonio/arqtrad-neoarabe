@@ -828,6 +828,50 @@ references:
   type: article-journal
   URL: https://dialnet.unirioja.es/servlet/articulo?codigo=5507429
 
+- id: chamberlain:1822views
+  author:
+    - family: Chamberlain
+      given: ''
+  call-number: F2646 .C5 1822
+  citation-key: chamberlain:1822views
+  event-place: London
+  issued:
+    - year: 1822
+  language: en-GB
+  number-of-pages: '41'
+  publisher: M'Lean
+  publisher-place: London
+  source: orbis.library.yale.edu Library Catalog
+  title: Views and costumes of the city and neighbourhood of Rio de Janeiro, Brazil
+  type: book
+
+- id: chamberlain:1943vistas
+  abstract: >-
+    Texto traduzido para o português, com suplemento do texto original em
+    inglês, sem qualquer modificação ou emenda tipográfica.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 14
+  author:
+    - family: Chamberlain
+      given: Henry
+  citation-key: chamberlain:1943vistas
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1943
+  language: pt-BR
+  publisher: Kosmos
+  publisher-place: Rio de Janeiro
+  source: bdlb.bn.gov.br
+  title: Vistas e costumes da cidade e arredores do Rio de Janeiro em 1819-1820
+  translator:
+    - family: Moraes
+      given: Rubens Borba
+      dropping-particle: de
+  type: book
+  URL: http://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/421078
+
 - id: choix:1853
   accessed:
     - year: 2018
@@ -1189,32 +1233,29 @@ references:
   URL: http://digital.bbm.usp.br/handle/bbm/3813
   volume: '1'
 
-- id: debret:1835diner;
-  abstract: >-
-    One of hundreds of thousands of free digital items from The New York Public
-    Library.
+- id: debret:1835diner
+  abstract: Brasiliana Iconográfica
   accessed:
-    - year: 2019
-      month: 12
-      day: 12
-  archive: >-
-    The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print
-    Collection. The New York Public Library
-  archive_location: MEM+++D288dv
+    - year: 2020
+      month: 4
+      day: 8
+  archive: Brasiliana Itaú
+  archive_location: '01979905.53'
   author:
     - family: Debret
       given: Jean Baptiste
-  call-number: b10086131
-  citation-key: debret:1835diner;
+    - literal: Thierry frères
+  citation-key: debret:1835diner
+  dimensions: 50,4 × 33,4 cm
   issued:
     - year: 1835
-  language: fre
-  medium: Lithographie Thierry Frères
-  source: NYPL catalog
-  title: Le dîner; Les délassements d'une après dîner.
+  language: fr
+  medium: litografia em cores
+  source: www.brasilianaiconografica.art.br
+  title: Le dîner ; Les délassemens d'une après dîner
   type: graphic
   URL: >-
-    http://digitalcollections.nypl.org/items/510d47df-7977-a3d9-e040-e00a18064a99
+    https://commons.wikimedia.org/wiki/File:La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner,_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg
 
 - id: debret:1835voyage2
   abstract: >-
@@ -3774,6 +3815,23 @@ references:
   type: thesis
   URL: https://www.repository.utl.pt/handle/10400.5/14187
 
+- id: woelfflin:1886prolegomena
+  archive_location: https://archive.org/details/gri_33125008677862/page/n4
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  call-number: '72.01'
+  citation-key: woelfflin:1886prolegomena
+  event-place: München
+  genre: Inaugural-Dissertation
+  issued:
+    - year: 1886
+  language: de
+  publisher: hohe philosophische Fakultät, Universität München
+  publisher-place: München
+  title: Prolegomena zu einer Psychologie der Architektur
+  type: thesis
+
 - id: woelfflin:1948kunstgeschichtliche
   author:
     - family: Wölfflin
@@ -3790,21 +3848,4 @@ references:
     Kunstgeschichtliche Grundbegriffe: das Problem der Stilentwicklung in der
     neueren Kunst
   type: book
-
-- id: wolfflin:1886prolegomena
-  archive_location: https://archive.org/details/gri_33125008677862/page/n4
-  author:
-    - family: Wölfflin
-      given: Heinrich
-  call-number: '72.01'
-  citation-key: wolfflin:1886prolegomena
-  event-place: München
-  genre: Inaugural-Dissertation
-  issued:
-    - year: 1886
-  language: de
-  publisher: hohe philosophische Fakultät, Universität München
-  publisher-place: München
-  title: Prolegomena zu einer Psychologie der Architektur
-  type: thesis
 ...

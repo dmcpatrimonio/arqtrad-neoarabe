@@ -1,4 +1,6 @@
 ---
+title: Apresentação
+layout: single
 ---
 
 O lugar privilegiado das reminiscências históricas e influências
