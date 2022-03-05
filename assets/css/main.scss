@@ -72,6 +72,10 @@ $serif: $sans-serif;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+body {
+    counter-reset: sidenote-counter;
+}
+
 .site-title,
 .post-title,
 h1 {
