@@ -1,127 +1,15 @@
 ---
-title: "A desconstrução do Ecletismo: modernismo vs. historicismo"
+title: "A desconstrução do ecletismo: modernismo vs historicismo"
 author: Sylvia Ficher
 permalink: "/ficher/"
 ---
-
-## Resumo ##
-
-Ao propor uma interpretação de como se conformou uma avaliação ainda
-corrente do Ecletismo -- avaliação esta que findou por adquirir estatuto
-historiográfico --, a presente análise considera, inicialmente, algumas
-lógicas que informam a produção arquitetônica de meados do século
-dezoito por todo o século dezenove, enveredando pela primeira metade do
-século vinte. Para aceitarmos que o Ecletismo, com sua multitude de
-ornamentos, de fato representou um *estilo consistente, original e de
-grande valor*, é necessário atentar para seus imperativos de qualidade
-arquitetônica, tais como o recurso historicista a sistemas decorativos
-de *precedentes* e a expressão do *caráter* das edificações. A
-interpretação aqui apresentada pretende defender a necessidade de se
-documentar e historiar a produção arquitetônica, seja de que época for,
-incluindo toda ordem de determinantes políticos, econômicos, culturais,
-técnicos, estéticos, sem impugnações arbitrárias com base no gosto do
-historiógrafo ou de um determinado milieu profissional. Para tanto,
-apoia-se, principalmente, em *La formation de l\'esprit scientifique*
-(1938), de Gaston Bachelard; *The structure of scientific revolutions*
-(1962), de Thomas Kuhn; *L\'archéologie du savoir* (1969), de Michel
-Foucault; *Victorian architecture in England* (1970), de John Summerson;
-*Thinking with history* (1998), de Carl Schorske; *The Beaux-Arts
-tradition in French architecture* (1980), de Donald Drew Egbert; e
-*Gothic vs. Classic* (1974), de Rudolf Wittkower.
-
-Palavras-chave: Ecletismo; precedentes estilísticos; caráter
-arquitetônico.
-
-## Abstract ##
-
-In proposing an interpretation of how a current evaluation of
-Eclecticism was fashioned---an evaluation that ended by acquiring
-historiographical status---, the present analysis initially considers
-some criteria that inform the architectural production from the
-mid-eighteenth century throughout the nineteenth century, up to the
-beginning of the twentieth century. To accept that Eclecticism, with its
-multitude of ornaments, in fact represented *an original and consistent
-style of great value*, it is necessary to take into account its
-imperatives of architectural quality, such as the historicist resource
-to decorative systems of *precedents* and the expression of the
-*character* of buildings. The interpretation here offered is intended to
-defend the need to document architectural production, whatever its
-epoch, taking into account political, economic, cultural, technical,
-artistic determinants, without arbitrary exclusions based on the taste
-of the historiographer or of a specific professional milieu. To this
-end, it relies particularly on Gaston Bachelard\'s *La formation de
-l\'esprit scientifique* (1938), Thomas Kuhn\'s *The structure of
-scientific revolutions* (1962), Michel Foucault\'s *L\'archéologie du
-savoir* (1969), John Summerson\'s *Victorian architecture in England*
-(1970), Carl Schorske\'s *Thinking with history* (1998), Donald Drew
-Egbert\'s *The Beaux-Arts tradition in French architecture* (1980), and
-Rudolf Wittkower\'s *Gothic vs. Classic* (1974).
-
-Keywords: Eclecticism; stylistic precedents; architectural character.
-
-## Resumen ##
-
-Al proponer una interpretación de cómo se conformó una evaluación aún
-corriente del Eclecticismo -- evaluación esta que terminó por adquirir
-estatuto historiográfico --, el presente análisis considera,
-inicialmente, algunas lógicas que informan la producción arquitectónica
-de mediados del siglo dieciocho por todo el siglo diecinueve, hasta
-principios del siglo veinte de la Segunda Guerra Mundial. Para aceptar
-sin objeciones que el Eclecticismo, con su multitud de ornamentos, de
-hecho representó un *estilo consistente, original y de gran valor*, es
-necesario atentar para sus imperativos de calidad arquitectónica, tales
-como el recurso historicista a sistemas decorativos de *precedentes* y
-la expresión del *carácter* de las edificaciones. La interpretación aquí
-presentada pretende, tan sólo, defender la necesidad de documentar e
-historiar la producción arquitectónica, sea de qué época, incluyendo
-todo orden de determinantes políticos, económicos, culturales, técnicos,
-estéticos, sin impugnaciones arbitrarias con base en el gusto del
-historiógrafo o de un determinado círculo profesional. Para ello, se
-apoya, principalmente, en *La formation de l\'esprit scientifique*
-(1938), de Gaston Bachelar; *The structure of scientific revolutions*
-(1962), de Thomas Kuhn; *L\'archéologie du savoir* (1969), de Michel
-Foucault; *Victorian architecture in England* (1970), de John Summerson;
-*Thinking with history* (1998), de Carl Schorske; *The Beaux-Arts
-tradition in French architecture* (1980), de Donald Drew Egbert; y
-*Gothic vs. Classic* (1974), de Rudolf Wittkower.
-
-Palabras-clave: Eclecticismo; precedentes estilísticos; carácter
-arquitectónico.
-
-*There is more of imagination in it than of true deduction*.
-
-Anthony Trollope, *Cousin Henri*, 1879.
-
-> *Há aí o seu tanto de exagerado, mas a hipérbole é deste mundo, e as
-> orelhas da gente andam já tão entupidas que só à força de muita
-> retórica se pode meter por elas um sopro de verdade*.
-
-Machado de Assis, *Esaú e Jacob*, 1904.
-
-Ao propor uma interpretação de como se constituiu uma avaliação ainda
-corrente do Ecletismo -- avaliação esta que findou por adquirir estatuto
-historiográfico, mesmo que em chave diferente e talvez até despercebida
-daquela de fins do século dezenove --, a razão central da presente
-análise é tentar entender como se moldam determinadas percepções do
-passado. No propósito de fazer estranhar o que é familiar. E, assim,
-talvez contribuir para a revisão de opiniões consagradas, enfatizando a
-necessidade de se preencher lacunas significativas que por ventura
-existam em nosso conhecimento da história da arquitetura.
-
-Para tanto, devemos considerar certos critérios que informam a produção
-arquitetônica que se desenvolve, *grosso modo*, de meados do século
-dezoito por todo o século dezenove, enveredando pela primeira metade do
-século vinte até inícios da 2ª Guerra Mundial, no quadro da sociedade
-ocidental e se difundindo mundo afora. Produção essa que tem sido
-abarcada -- ao menos, aqui se abarca\... -- sob o genérico rótulo de
-*Ecletismo*.
 
 # Adjetivando a arquitetura #
 
 > *Style is but the faintly contemptible vessel in which the bitter
 > liquid is recommended to the world*.
-
-Thornton Wilder, *The Bridge of San Luis Rey*, 1927.
+>
+> <cite>Thornton Wilder, *The Bridge of San Luis Rey*, 1927</cite>
 
 Da Renascença ao Rococó, ao se falar em *arquitetura*, ficava no geral
 subentendido que se estava tratando de *arquitetura clássica*; qualquer
@@ -131,7 +19,7 @@ o sempre e de universal validade. Arquitetura renascentista, maneirista,
 barroca ou rococó\..., todas, apesar de suas diferenças e divergências,
 variações em torno do classicismo, todas tendo como *precedente* -- e
 esta é uma palavra-chave -- a Antiguidade greco-romana. Até quando se dá
-o que Gastón Bachelard, em *La formation de l\'esprit scientifique*
+o que Gaston Bachelard, em *La formation de l\'esprit scientifique*
 (1938), descreveu como uma *ruptura epistemológica*, concepção estendida
 para a filosofia por Michel Foucault, em sua *L\'archéologie du savoir*
 (1969), como *descontinuidade* ou *limiar*. Podendo nos valer igualmente
@@ -156,7 +44,7 @@ diante de situações extremadas ou evocativas. O que explica o encanto
 por vestígios do passado, como ruínas, e por paisagens grandiosas, como
 montanhas ou desfiladeiros.
 
-![*O caminhante sobre o mar de névoa* (1818), de Caspar David Friedrich, é considerado uma representação do espírito romântico. Fonte: <https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich\_-\_Wanderer_above_the_sea_of_fog.jpg>. Acesso em: 19 nov. 2018.](media/image1.jpeg){#fig:caspar}
+![*O caminhante sobre o mar de névoa* (1818), de Caspar David Friedrich, é considerado uma representação do espírito romântico. Fonte: <https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg>. Acesso em: 19 nov. 2018.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:caspar}
 
 As manifestações sublimes não deixaram de ser apreciadas, como demonstra
 as legiões de turistas que acorrem a visitar Niagara Falls e as
@@ -200,13 +88,7 @@ Recife, lá instalados no século dezoito. Igualmente em Minas Gerais,
 como apreciamos nas *chinesices* das pinturas da Igreja de Nossa Senhora
 do Ó, em Sabará.
 
-![](media/image2.jpeg){width="2.4722222222222223in"
-height="3.2222222222222223in"}
-
-**Leão de Fô, Convento de Santo Antônio, João Pessoa.**
-
-**Fonte: Germain Bazin, *L\'architecture religieuse baroque au Brésil*,
-1958, 2 v., Planche 40.**
+![Leão de Fô, Convento de Santo Antônio, João Pessoa. Fonte: Germain Bazin, *L'architecture religieuse baroque au Brésil*, 1958, 2 v., Planche 40](media/image2.jpeg){#fig:bazin}
 
 Arquiteturas adventícias do Egito, da Índia\... A predileção pela arte
 egípcia é coisa antiga, Roma possuindo vários obeliscos lá instalados
@@ -222,33 +104,13 @@ experiência no projeto de Nova Delhi (1912-1930) para criar uma ordem
 arquitetônica própria, como empregada na atual Residência Presidencial
 (1912-29).
 
-![](media/image3.jpeg){width="2.4722222222222223in"
-height="3.4305555555555554in"}
+![Jean Baptiste Joseph Fourier *et al.*, [*Description de l'Égypte*](https://fr.wikipedia.org/wiki/Description_de_l'Égypte), 1809. Frontispício, Volume I. Fonte: <https://commons.wikimedia.org/wiki/File:Frontispiece,_vol._1_(NYPL_b14212718-1267827).jpg>. Acesso em: 15 out. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frontispiece,_vol._1_(NYPL_b14212718-1267827).jpg/575px-Frontispiece,_vol._1_(NYPL_b14212718-1267827).jpg){#fig:fourier}
 
-**Jean Baptiste Joseph Fourier *et alii*., [*Description de
-l\'Égypte*](https://fr.wikipedia.org/wiki/Description_de_l%27%C3%89gypte),
-[1809](https://fr.wikipedia.org/wiki/1809). Frontispício, Volume I.**
+![Friedrich Weinbrenner, Sinagoga, Karlshue, 1798. Fonte: <https://commons.wikimedia.org/wiki/File:Karlsruhe_Synagoge_1810.jpg>. Acesso em: 15 out. 2018.](https://upload.wikimedia.org/wikipedia/commons/2/23/Karlsruhe_Synagoge_1810.jpg){#fig:karlsruhe}
 
-**Fonte:
-\<<https://commons.wikimedia.org/wiki/File:Frontispiece,_vol._1_(NYPL_b14212718-1267827).jpg>\>.
-Acesso em: 15 out. 2018.**
+![George Wittet, Gateway of Índia, Mumbai, 1914-24. Fonte: <https://commons.wikimedia.org/wiki/File:Gateway_of_India,_Bombay._1911.JPG>. Acesso em: 16 out. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gateway_of_India,_Bombay._1911.JPG/1019px-Gateway_of_India,_Bombay._1911.JPG){#fig:mumbai}
 
-![](media/image4.jpeg){width="3.1527777777777777in"
-height="2.2083333333333335in"}
-
-**Friedrich Weinbrenner, Sinagoga, Karlshue, 1798.**
-
-**Fonte:
-\<https://commons.wikimedia.org/wiki/File:Karlsruhe_Synagoge_1810.jpg\>.
-Acesso em: 15 out. 2018.**
-
-![](media/image5.jpeg){width="3.1527777777777777in" height="2.375in"}
-
-**George Wittet, Gateway of Índia, Mumbai, 1914-24.**
-
-**Fonte: \<
-https://commons.wikimedia.org/wiki/File:Gateway_of_India,\_Bombay.\_1911.JP\>.
-Acesso em: 16 out. 2018.**
+<!--_-->
 
 E mesmo a arquitetura adventícia da própria Grécia! Até então a
 referência para o classicismo fora quase que unicamente a arquitetura da
@@ -256,18 +118,13 @@ Antiguidade romana. A ascendência grega era pouco conhecida no Ocidente,
 à exceção de relatos ilustrados: tendo viajado juntos, Jacques Spon
 (1647-85) publicou *Voyage d\'Italie, de Dalmatie, de Grèce et du
 Levant* em 1678, e George Wheler (1650-1723) publicou *A Journey into
-Greece* em 1682. Além da experiência de primeira mão dos templos de
+Greece* em 1682\. Além da experiência de primeira mão dos templos de
 Pesto, no sul da Itália, que pouco interesse haviam despertado até
 então.
 
-![](media/image6.jpeg){width="3.1527777777777777in"
-height="1.9305555555555556in"}
-
-**Templos de Hera, Pesto,550 a.C. e 460 a.C..**
-
-**Fonte:
-\<<https://en.wikipedia.org/wiki/Paestum#/media/File:Veduta_di_Paestum_2010.jpg>\>.
-Acesso em: 16 out. 2018.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Templos de Hera, Pesto, 550 a.C. e 460 a.C. Fonte: <https://en.wikipedia.org/wiki/Paestum#/media/File:Veduta_di_Paestum_2010.jpg>. Acesso em: 16 out. 2018](https://upload.wikimedia.org/wikipedia/commons/f/fb/Veduta_di_Paestum_2010.jpg){#fig:paestum}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A Grécia ficava lá no Império Otomano e somente se tornaria mais
 acessível após a independência no primeiro quarto do século dezenove.
@@ -278,19 +135,9 @@ como *The antiquities of Athens*, e pouco depois pelo francês
 Julien-David Le Roy (1724-1803) -- num furo de reportagem publicados
 antes, em 1758 --, como *Ruines des plus beaux monuments de la Grèce*.
 
-![](media/image7.jpeg){width="3.138888888888889in" height="2.125in"}
+![Erecteu, Atenas. Fonte: James Stuart e Nicholas Revett, *The antiquities of Athens*, 1762](media/image7.jpeg){#fig:ercteu}
 
-**Erecteion, Atenas**
-
-**Fonte: James Stuart e Nicholas Revett, *The antiquities of Athens*,
-1762.**
-
-![](media/image8.jpeg){width="3.138888888888889in" height="2.0in"}
-
-**Templo de Minerva, Atenas.**
-
-**Fonte: Julien-David Le Roy, *Ruines des plus beaux monuments de la
-Grèce*, 1758.**
+![Templo de Minerva, Atenas. Fonte: Julien-David Le Roy, *Ruines des plus beaux monuments de la Grèce*, 1758](media/image8.jpeg){#fig:leroy}
 
 O que deu origem a uma *arquitetura completamente nova*, o neogrego.
 Arquitetura nova e muito cortejada em edificações de grande prestígio,
@@ -300,14 +147,9 @@ I, como se vê na Bolsa de Valores, atual Museu Central Naval (1805-10),
 projetada pelo francês Thomas de Thomon tendo por precedente justamente
 um dos templos de Pesto.
 
-![](media/image9.jpeg){width="3.1527777777777777in"
-height="1.9166666666666667in"}
-
-**Fyodor Alekseyev, *Vista da Bolsa e do Almirantado*, São Petersburgo,
-1810.**
-
-**Fonte: \<<https://en.wikipedia.org/wiki/File:Alexeev_birzha.jpg>\>.
-Acesso em: 16 out. 2018.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Fyodor Alekseyev, *Vista da Bolsa e do Almirantado*, São Petersburgo, 1810. Fonte: <https://en.wikipedia.org/wiki/File:Alexeev_birzha.jpg>. Acesso em: 16 out. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alexeev_birzha.jpg/1024px-Alexeev_birzha.jpg){#fig:almirantado}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Entre as muitas *arquiteturas completamente novas* que constituem o
 conglomerado eclético, teremos até um retorno ao próprio classicismo
@@ -318,23 +160,9 @@ Grand Prix de Roma, este por sua vez substituído, em 1804, por
 \"imperial\"). Engraçando Paris desde a Madeleine (1763-1828), desde
 então influencia o vestuário feminino.
 
-![](media/image10.jpeg){width="2.1666666666666665in"
-height="3.138888888888889in"}
+![Guillaume Couture e outros, Igreja da Madeleine, Paris, 1763-1828. Fonte: <https://br.pinterest.com/pin/272890058650803196/>. Acesso em: 16 out. 2018](https://i.pinimg.com/originals/77/0d/a8/770da87b972e56ea429253871c836a3f.jpg){#fig:madeleine}
 
-**Guillaume Couture e outros, Igreja da Madeleine, Paris, 1763-1828.**
-
-**Fonte: \<<https://br.pinterest.com/pin/272890058650803196/>\>. Acesso
-em: 16 out. 2018.**
-
-![](media/image11.jpeg){width="3.5416666666666665in"
-height="2.263888888888889in"}
-
-**Vestidos nos estilos Diretório e Império. Augustin Challamel, *The
-history of fashion in France*, 1882, p. 190.**
-
-**Fonte:
-\<<https://archive.org/details/historyoffashion00chal/page/n7>\>. Acesso
-em: 16 out. 2018.**
+![Vestidos nos estilos Diretório e Império. Augustin Challamel, *The history of fashion in France*, 1882, p. 190. Fonte: <https://archive.org/details/historyoffashion00chal/page/n7>. Acesso em: 16 out. 2018](media/image11.jpeg){#fig:challamel}
 
 Simplificando, o Ecletismo representou a coexistência -- autorizada,
 inclusive, em uma única obra -- dos vários classicismos, aos quais se
@@ -348,17 +176,9 @@ de estilos tinha particular sucesso nas artes decorativas e aplicadas;
 representando-se no mobiliário, inspirava o famoso *cabinet-maker*
 Thomas Chippendale (1718-79), ao cabo ele mesmo um estilo.
 
-![](media/image12.jpeg){width="2.1666666666666665in"
-height="2.888888888888889in"}
+![Thomas Chippendale, *escritoire* em estilo neobarroco com acabamento em estilo chinês. Fonte: <https://commons.wikimedia.org/wiki/File:Chippendale_Desk.jpg>. Acesso em: 16 out. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chippendale_Desk.jpg/576px-Chippendale_Desk.jpg){#fig:chippendale}
 
-**Thomas Chippendale, *escritoire* em estilo neobarroco com acabamento
-em estilo chinês.**
-
-**Fonte:
-\<<https://commons.wikimedia.org/wiki/File:Chippendale_Desk.jpg>\>.
-Acesso em: 16 out. 2018.**
-
-**Summerson + Schorske**
+## Summerson + Schorske ##
 
 Pode-se iniciar a argumentação com uma citação de John Summerson:
 
@@ -404,14 +224,14 @@ modernista*, esclarece:
 > uma maneira de enfrentar a modernização pela aplicação dos recursos do
 > passado.
 >
-> Embora filhos da assim chamada Era do Realismo, \[Richard Wagner e
-> William Morris\] escrupulosamente evitavam temáticas contemporâneas
+> Embora filhos da assim chamada Era do Realismo, Richard Wagner e
+> William Morris escrupulosamente evitavam temáticas contemporâneas
 > como objetos de sua arte. Revolucionários na expressão estética, eles
 > eram conservadores em sua busca por ancoragem espiritual (1998, p. 3-5
 > e 90; grifo meu).[^2]
 
 Schorske nos oferece uma chave de leitura para o que podemos chamar de
-dilema *passadismo* vs. *presenteísmo* -- como se o presente que se vive
+dilema *passadismo* vs. *presentismo* -- como se o presente que se vive
 fosse alheio ao passado, como se os processos de mudança e renovação
 ocorressem em um eterno agora. Para ele, o historicismo que distingue a
 produção intelectual pós-revolução industrial teria representado uma
@@ -439,13 +259,13 @@ ainda em seu tempo.
 
 # Uma arquitetura nova #
 
-> *Tous les hommes rapportent leur lecture, leur étude & leur réfléxions
+> Tous les hommes rapportent leur lecture, leur étude & leur réfléxions
 > à leur caracter, à leur humeur, & aux talens qu\'ils cultivent, & en
 > toutes les recherches qu l\'ont fait pour la perfection des Sciences &
 > des Arts, il faut à l\'exemple des abeilles, tirer le suc de toutes
-> sortes de fleurs\...*
-
-Gabriel-Germain Boffrand, *Livre d\'Architecture*\..., 1745.
+> sortes de fleurs\...
+>
+> <cite>Gabriel-Germain Boffrand, *Livre d\'Architecture*\..., 1745</cite>
 
 Evidentemente, muitos não enxergaram nessa arquitetura -- como muitos
 hoje não enxergam -- nada além de *um mero exercício formal de aplicação
@@ -782,7 +602,7 @@ height="2.5694444444444446in"}
 **Robert A. M. Stern Architects, Pauli Murray College, Yale, 2009-17.**
 
 **Fonte:
-\<[http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges](http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges_o?utm_source=newsletter&utm_content=Article&utm_medium=email&utm_campaign=AN_031618%20%281%29&he)\>.
+\<[http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges](http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges_o?utm_source=newsletter&utm_content=Article&utm_medium=email&utm_campaign=AN_031618%20(1)&he)\>.
 Acesso em: 15 abr. 2018.**
 
 ![](media/image28.jpeg){width="3.1527777777777777in" height="1.875in"}
