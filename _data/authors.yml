@@ -54,9 +54,12 @@ Carolina Pescatori:
       icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
 
-Patrícia El-Moor:
+Patrícia El-moor:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Doutora em ciências sociais"
+  bio: >
+    Doutora em sociologia da cultura pela Universidade de Brasília.
+    Idealizadora do projeto Presença Árabe no Brasil e Coordenadora
+    Cultural do Instituto de Cultura Árabe-Brasileira.
   location         : "Brasília"
   email            : 
   links:
