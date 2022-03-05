@@ -21,10 +21,10 @@ Carmen Lícia Palazzo:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/p3palazzo"
+      #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/p3palazzo"
+      #url: "https://instagram.com/"
 
 Carolina Pescatori:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -49,10 +49,10 @@ Carolina Pescatori:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/p3palazzo"
+      #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/p3palazzo"
+      #url: "https://instagram.com/"
 
 Patrícia El-Moor:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -77,10 +77,10 @@ Patrícia El-Moor:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/p3palazzo"
+      #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/p3palazzo"
+      #url: "https://instagram.com/"
 
 Pedro P. Palazzo:
   avatar           : "https://avatars3.githubusercontent.com/u/8295666"
@@ -133,10 +133,10 @@ Rafael López Guzmán:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/p3palazzo"
+      #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/p3palazzo"
+      #url: "https://instagram.com/"
 
 Sylvia Ficher:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -161,7 +161,7 @@ Sylvia Ficher:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/p3palazzo"
+      #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/p3palazzo"
+      #url: "https://instagram.com/"
