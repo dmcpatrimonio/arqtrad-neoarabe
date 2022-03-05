@@ -1,5 +1,5 @@
 ---
-title: 'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
+title: "Reminiscências árabes na arquitetura luso-brasileira"
 author: Pedro P. Palazzo
 keywords: [História da Arquitetura, Regionalismo, Neoárabe]
 permalink: /ppalazzo/
@@ -102,22 +102,24 @@ técnicos que este poder detém.
 O modo arabizado de estruturar o espaço urbano resultava, na
 península Ibérica, numa ordem urbana em três níveis:
 
-(1) Alcáçova, sinalizando o centro do poder político
-    e demarcando a presença islâmica por excelência, é o
-    núcleo fortificado dominante do conjunto urbano, podendo
-    conter também as residências da elite governante
-    e, mais raramente, a mesquita maior
-    [@mazzoli-guintard:2000ciudades, p. 138--140];
-(2) Almedina, cidade amuralhada, frequentemente
-    correspondia à sedimentação de um traçado romano
-    preexistente, e se dividia, conforme o permitissem as
-    dimensões e a configuração do traçado, em distritos
-    tendendo a agrupar as diferentes comunidades
-    religiosas de muçulmanos, judeus e cristãos;[^almedina]
-(3) Arrabaldes, estendendo a mancha urbana para além da
-    cerca, organizavam-se mais nitidamente em função de
-    atividades econômicas --- comércio e artesanato --- do
-    que em torno de equipamentos e atividades comunitárias.
+1. Alcáçova, sinalizando o centro do poder político
+   e demarcando a presença islâmica por excelência, é o
+   núcleo fortificado dominante do conjunto urbano, podendo
+   conter também as residências da elite governante
+   e, mais raramente, a mesquita maior
+   [@mazzoli-guintard:2000ciudades, p. 138--140];
+
+2. Almedina, cidade amuralhada, frequentemente
+   correspondia à sedimentação de um traçado romano
+   preexistente, e se dividia, conforme o permitissem as
+   dimensões e a configuração do traçado, em distritos
+   tendendo a agrupar as diferentes comunidades
+   religiosas de muçulmanos, judeus e cristãos;[^almedina]
+
+3. Arrabaldes, estendendo a mancha urbana para além da
+   cerca, organizavam-se mais nitidamente em função de
+   atividades econômicas --- comércio e artesanato --- do
+   que em torno de equipamentos e atividades comunitárias.
 
 [^almedina]: A terminologia urbanística de al-Ândalus
   é notoriamente inconsistente. Mazzoli-Guintard alerta
@@ -464,7 +466,9 @@ apto a receber diversos usos conforme a disposição da
 mobília:
 refeições, trabalho doméstico, preparo de alimentos, etc.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Varanda na casa-grande da fazenda Babylonia, Pirenópolis (Goiás), primeira metade do século XIX. Foto: [Leon Ivan Dodriac, 2018](https://commons.wikimedia.org/wiki/File:Varanda_da_Fazenda_Babilônia.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fc/Varanda_da_Fazenda_Babilônia.jpg){#fig:babilonia}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A distribuição da morada luso-brasileira evidenciava,
 portanto, a segregação entre a sociabilidade doméstica
@@ -705,7 +709,9 @@ para dominar, ainda que com técnica simplificada
 e iconografia abastardada, os programas decorativos da
 arquitetura religiosa nas ilhas do Atlântico (@fig:funchal) e no Brasil.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Teto em alfarje na nave central da Sé do Funchal, início do século XVI. Foto: [Hajotthu, 2013](https://commons.wikimedia.org/wiki/File:Funchal_Kathedrale_Holzdecke.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Funchal_Kathedrale_Holzdecke.jpg/1280px-Funchal_Kathedrale_Holzdecke.jpg){#fig:funchal}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Mais recentemente, a ocorrência do aximez tem sido apontada
 como marcador por excelência do atual entendimento da
@@ -728,9 +734,11 @@ do século IX. Tal leitura reforça o papel deste elemento
 como marcador intencional de identidade cultural.
 [@almeidafernandes:2017velhos24, p. 45--47].
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016](https://commons.wikimedia.org/wiki/File:Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg/1280px-Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg){#fig:lourosa}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--_,-->
+<!--_-->
 
 A contaminação *mourisca* do neoclassicismo no Brasil imperial
 ==============================================================
