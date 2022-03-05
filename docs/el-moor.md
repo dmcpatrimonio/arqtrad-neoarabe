@@ -755,7 +755,7 @@ descendentes.
 > associações culturais ou instituições religiosas) e a laços
 > transnacionais baseados em deslocamentos, relações de parentesco e
 > imaginários sociais orientados para o "local de origem", real ou
-> imaginário, no Oriente Médio. (PINTO & MONTENEGRO, 2011)[^16]
+> imaginário, no Oriente Médio. (PINTO e MONTENEGRO, 2011)[^16]
 
 Esse número, se tomado para toda a América Latina, seria ainda muito
 maior. Apesar da importância que possui a presença árabe nessa região,
@@ -859,7 +859,7 @@ construção identitária do Sul da Bahia:
 [^7]: Artigo publicado pelo Instituto de Cultura Árabe ICArabe em 2009.
 Disponível em:
 <http://www.icarabe.org/artigos/registros-da-experiencia-na-historia>.
-Acesso em: jan. 2014.
+Acesso em: jan. 2014.
 
 [^8]: Corroborando a informação dada por Zaidan, cabe mencionar que em
 2014, na ocasião da realização do campeonato futebolístico no Brasil,
@@ -945,7 +945,7 @@ presença é ir muito além de censos e registros de fluxo migratório.
 > migratório de sírios e libaneses desde as últimas décadas do século
 > XIX. Na verdade, a mentalidade, a arte, a técnica e a cultura material
 > árabes estão presentes desde a gênese ibérica do Brasil colônia.
-> (CHOHFI, 2000) [^17]
+> (CHOHFI, 2000) [^17a]
 
 E ainda:
 
@@ -953,7 +953,7 @@ E ainda:
 > povoadores, numerosos indivíduos de origem moura e moçárabes, junto
 > com cristãos-novos e portugueses velhos. (FREYRE, 2003, p. 256)
 
-Segundo Abreu & Aguilera (2010), a longa permanência árabe na Península
+Segundo Abreu e Aguilera (2010), a longa permanência árabe na Península
 Ibérica, que se estendeu do século VIII ao século XV, bem como o
 "refinamento cultural dos muçulmanos em relação aos hispanos, visigodos
 e cristãos" (2010, p.8), fizeram com que uma série de traços culturais
@@ -1052,7 +1052,7 @@ nossos antepassados. Como bem apontou Antônio Houaiss:
 > portuguesa primitiva. E essa estatística toma em conta, também, os
 > vocábulos então recém-derivados. (HOUAISS, 1986).
 
-Também Abreu & Aguilera (2010, p. 12) oferecem exemplos "facilmente
+Também Abreu e Aguilera (2010, p. 12) oferecem exemplos "facilmente
 observáveis" no vocabulário de origem árabe.
 
 > Alguns vocábulos possuem x- inicial, como é o caso de: xá, xadrez,
@@ -1095,7 +1095,7 @@ vestuário, para citar alguns exemplos.
 > ano em que Colombo chegava à América. (TRUZZI, 2009)
 
 Em seus argumentos, Truzzi inevitavelmente remete o leitor a Gilberto
-Freyre, que, em 1933 ao publicar *Casa Grande & Senzala* ,
+Freyre, que, em 1933 ao publicar *Casa Grande e Senzala* ,
 sinalizou para a importância do contato entre os portugueses e mouros
 durante a Idade Média, o que teria sido fundamental para que os
 lusitanos realizassem com sucesso a empreitada das grandes navegações.
@@ -1180,7 +1180,7 @@ Mundo.
 > quase obrigatória do seu interesse investigativo. Além da constância
 > no conjunto dos estudos cascudianos, ganham relevo suas obras
 > devotadas exclusivamente ao tema, como A cozinha africana no Brasil.
-> (AVIGNAC & OLIVEIRA, 2010)
+> (AVIGNAC e OLIVEIRA, 2010)
 
 Dentre os aspectos culturais que podem ser atribuídos aos mouros, está,
 entre outros, o de beber depois de comer (e não durante a refeição),
@@ -1331,7 +1331,7 @@ a presença árabe no Brasil antecedeu a chegada dos próprios imigrantes
 e, possivelmente, contribuiu para evitar um choque cultural quando da
 sua chegada.
 
-[^17]: Conforme ressaltado no documento base do Seminário *Relações
+[^17a]: Conforme ressaltado no documento base do Seminário *Relações
 entre o Brasil e o mundo árabe* organizado pela Fundação Alexandre
 Gusmão (Funag) em 2000.
 
@@ -1492,7 +1492,7 @@ FAUSTO, Boris. Fazer a América: a imigração em massa para a América Latina. 
 
 FERABOLLI, Sílvia. Relações Internacionais do Mundo Árabe (1954-2004): os desafios para a realização da utopia pan-arabista. Revista Contexto Internacional, vol. 29, n. 1, Rio de Janeiro, janeiro/junho, 2007, p. 63-97.
 
-FREYRE, Gilberto. Casa Grande & Senzala. Recife: Global, 2003.
+FREYRE, Gilberto. Casa Grande e Senzala. Recife: Global, 2003.
 
 FUNDAÇÃO ALEXANDRE DE GUSMÃO. Relações entre o Brasil e o Mundo Árabe: construção e perspectivas. Brasília: 2001.
 
