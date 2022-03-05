@@ -1,0 +1,23 @@
+from            : markdown+raw_tex
+to              : latex
+standalone      : true
+file-scope      : true
+pdf-engine      : xelatex
+fail-if-warnings: false
+variables:
+  documentclass: letter
+  fontsize: 11pt
+  geometry:
+    - top=3.5cm
+  header-includes:
+    - \usepackage[p,osf]{ebgaramond}
+    - \usepackage{academicons}
+    - \usepackage{csquotes}
+    - \usepackage[overload]{textcase}
+    - \usepackage{enumitem}
+  include-before:
+    - \let\oldsc\textsc
+    - \renewcommand{\textsc}[1]{\oldsc{\MakeLowercase{#1}}}
+    - \setlist{font=\normalfont}
+  indent: true
+  papersize: a4

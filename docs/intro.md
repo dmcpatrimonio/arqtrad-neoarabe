@@ -1,9 +1,7 @@
 ---
 title: "Introdução"
-author:
-- name            : 'Pedro Paulo Palazzo'
-  institute       : 'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
-  email           : 'palazzo@unb.br'
+author: Pedro P. Palazzo
+permalink: "/intro/"
 ---
 
 - Cultura luso-brasileira é pouco visual e ainda menos arquitetônica

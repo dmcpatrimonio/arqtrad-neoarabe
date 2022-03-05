@@ -1,7 +1,7 @@
 ---
 title                : "Arquitetura ibérica de al-Andalus ao Brasil"
 subtitle             : "Plano de trabalho"
-date                 : "8 de maio de 2019"
+date                 : "2019-05-08"
 suppress-bibliography: false
 ---
 

@@ -1,0 +1,15 @@
+sumario:
+  - title: "Sumário"
+    children:
+      - title: "Introdução"
+        url: "/intro/"
+      - title: "Rota da Seda"
+        url: "/clpalazzo/"
+      - title: "Arquitetura luso-brasileira"
+        url: "/ppalazzo/"
+      - title: "Alhambras"
+        url: "/lopez/"
+      - title:  "Desconstrução do ecletismo"
+        url: "/ficher/"
+      - title: "Herança ibérica"
+        url: "/el-moor/"

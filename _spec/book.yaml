@@ -1,0 +1,57 @@
+from            : markdown+raw_tex+escaped_line_breaks
+to              : latex
+standalone      : true
+file-scope      : true
+pdf-engine      : xelatex
+fail-if-warnings: false
+cite-method     : citeproc
+filters:
+  - pandoc-crossref
+  - citeproc
+  - pandoc-include
+metadata:
+  lang          : pt-PT
+  toc           : true
+  toc-title     : "Índice"
+  toc-depth     : 1
+number-sections : true
+template        : _lib/default.latex
+variables:
+  documentclass : report
+  fontsize: 12pt
+  header-includes: |
+    \usepackage[p,osf]{ebgaramond}
+
+    \usepackage{multicol}
+    \setlength{\columnsep}{15pt}
+
+    \usepackage{csquotes}
+    \usepackage[overload]{textcase}
+    \let\oldsc\textsc
+    \renewcommand{\textsc}[1]{\oldsc{\MakeLowercase{#1}}}
+
+    \usepackage{titling}
+    \pretitle{\begin{flushleft}\Huge}
+    \posttitle{\end{flushleft}\vspace{2em}}
+    \preauthor{\begin{flushleft}\Large}
+    \postauthor{\par\end{flushleft}}
+    \predate{\begin{flushleft}\large}
+    \postdate{\end{flushleft} \vfill}
+
+    \usepackage{titlesec,titletoc}
+    \titlecontents{chapter}[0pt]{\addvspace{1em} \large}{\thecontentslabel \quad\enspace{\hspace*{-0.2em}}}{}{\titlerule*[0.25pc]{ }\thecontentspage}[\addvspace{1em}]
+    \titlecontents{section}[0pt]{\itshape}{\thecontentslabel \quad{\hspace*{-0.2em}}}{}{\titlerule*[0.25pc]{ }\thecontentspage}[\addvspace{0.5em}]
+    \titleformat{\chapter}[display]{}{}{0pt}{\relax\huge}[\vspace{2em}]
+    \titleformat{\section}[hang]{\normalfont\Large\itshape}{\thesection}{1em}{}[]
+    \titleformat{\subsection}[hang]{\normalfont\large\itshape}{}{1em}{}[]
+    \titleformat{\paragraph}[runin]{\normalfont\scshape}{}{0pt}{}[]
+    \titlespacing{\paragraph}{0pt}{1em}{0.5ex}
+    
+    \usepackage{enumitem}
+    \setlist{font=\normalfont\scshape}
+    \setlist[itemize,1]{label=$›$}
+
+    \usepackage{fancyhdr}
+  indent: true
+  papersize: a4
+  secnumdepth: 1

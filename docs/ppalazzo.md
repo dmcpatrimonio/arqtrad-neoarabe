@@ -1,19 +1,9 @@
 ---
-title:            : 'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
-author:
-- name            : 'Pedro Paulo Palazzo'
-  institute       : 'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
-  email           : 'palazzo@unb.br'
-abstract: 
-keywords          : [História da Arquitetura, Regionalismo, Neoárabe]
-header-includes:
-- type            : collection
-  text            : 'Arquitetura ibérica: de al-Andalus ao Brasil'
-date              : "23 de outubro de 2019"
-lang              : "pt-BR"
-csl               : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
-bibliography      : '_data/biblio.yaml'
-bibliography-title: 'Referências Bibliográficas'
+title: "Reminiscências árabes na arquitetura luso-brasileira"
+author: Pedro P. Palazzo
+keywords: [História da Arquitetura, Regionalismo, Neoárabe]
+permalink: /ppalazzo/
+date: "2019-10-23"
 ---
 
 Introdução: das reminiscências ao revivalismo
@@ -83,7 +73,7 @@ Substrato árabe na urbanização de Portugal
 Tecidos arabizados nos séculos VIII a X, tais como
 a Alfama lisboeta ou o centro de Évora, formaram-se pela
 sedimentação e hierarquização da malha viária romana
-preexistente (Fig. 1). O traçado castrense de ruas pouco
+preexistente (@fig:evora). O traçado castrense de ruas pouco
 diferenciadas deu então lugar à hierarquização funcional e
 espacial entre ruas comerciais de maior largura e adarves
 residenciais, por vezes formando becos. Equipamentos
@@ -97,8 +87,7 @@ introvertidas e dotadas de pátio central.
 ![Perímetro da cidade romana de Évora evidenciando a
 sedimentação do traçado romano. Editado pelo autor com base
 em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png)
-<!--[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)-->
+](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
 
 O sistema de hierarquia viária e parcelamento do solo
 característico da arabização cultural e política da
@@ -113,22 +102,24 @@ técnicos que este poder detém.
 O modo arabizado de estruturar o espaço urbano resultava, na
 península Ibérica, numa ordem urbana em três níveis:
 
-(1) Alcáçova, sinalizando o centro do poder político
-    e demarcando a presença islâmica por excelência, é o
-    núcleo fortificado dominante do conjunto urbano, podendo
-    conter também as residências da elite governante
-    e, mais raramente, a mesquita maior
-    [@mazzoli-guintard:2000ciudades, p. 138--140];
-(2) Almedina, cidade amuralhada, frequentemente
-    correspondia à sedimentação de um traçado romano
-    preexistente, e se dividia, conforme o permitissem as
-    dimensões e a configuração do traçado, em distritos
-    tendendo a agrupar as diferentes comunidades
-    religiosas de muçulmanos, judeus e cristãos;[^almedina]
-(3) Arrabaldes, estendendo a mancha urbana para além da
-    cerca, organizavam-se mais nitidamente em função de
-    atividades econômicas --- comércio e artesanato --- do
-    que em torno de equipamentos e atividades comunitárias.
+1. Alcáçova, sinalizando o centro do poder político
+   e demarcando a presença islâmica por excelência, é o
+   núcleo fortificado dominante do conjunto urbano, podendo
+   conter também as residências da elite governante
+   e, mais raramente, a mesquita maior
+   [@mazzoli-guintard:2000ciudades, p. 138--140];
+
+2. Almedina, cidade amuralhada, frequentemente
+   correspondia à sedimentação de um traçado romano
+   preexistente, e se dividia, conforme o permitissem as
+   dimensões e a configuração do traçado, em distritos
+   tendendo a agrupar as diferentes comunidades
+   religiosas de muçulmanos, judeus e cristãos;[^almedina]
+
+3. Arrabaldes, estendendo a mancha urbana para além da
+   cerca, organizavam-se mais nitidamente em função de
+   atividades econômicas --- comércio e artesanato --- do
+   que em torno de equipamentos e atividades comunitárias.
 
 [^almedina]: A terminologia urbanística de al-Ândalus
   é notoriamente inconsistente. Mazzoli-Guintard alerta
@@ -190,7 +181,7 @@ Maria, traçado estruturador do crescimento urbano sobre
 a linha de cumeada, e ao norte pela encosta onde, no século
 XVII, seria construída uma nova cintura defensiva.
 A malha viária interna ao distrito converge num largo
-central onde se situa uma bica.
+central onde se situa uma bica (@fig:vide).
 Já na dinastia de Avis, e num contexto livre das restrições
 espaciais que caracterizam as judiarias, o crescimento do
 núcleo urbano de Angra do Heroísmo, no século XV, resultou
@@ -200,10 +191,7 @@ paralelos, foram conectados por uma rede secundária de
 adarves, "ruas de trás" [@teixeira:2012forma]
 e largos introvertidos.
 
-![Judiaria de Castelo de Vide (Alto Alentejo), mostrando
-blocos de quadras (sombreados em cinza) delimitados por ruas da frente
-(contorno sólido) e contendo ruas de trás (tracejado). Desenho do autor
-](fig/castelo_vide.png)
+![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (sombreados em rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](https://hcommons.org/app/uploads/sites/1001411/2021/05/pt-castelo_vide-judiaria-tracado.png){#fig:vide}
 
 Se a ocupação urbana hispanomuçulmana operou sobretudo uma
 sedimentação dos traçados e parcelamentos de origem romana,
@@ -233,16 +221,14 @@ Esse saber fazer se impôs a tecidos urbanos de origem
 predominantemente romana e apenas parcialmente
 arabizados.
 A política urbanizadora levada a cabo por D. Afonso III e
-D. Dinis apresenta, tanto no processo quanto na morfologia,
+D. Dinis (@fig:caminha) apresenta, tanto no processo quanto na morfologia,
 características das coetâneas *bastides* erigidas pelas
 autoridades inglesas e francesas no atual sudoeste da
 França, fundamentalmente redutíveis aos propósitos de
 controle administrativo e militar do território, e de
 expansão da base agrária [@falini:1978politica, p. 99].
 
-![Castelo e vila de Chaves, 1253. Desenho por Luísa Trindade
-[@trindade:2009urbanismo, 140]
-](fig/chaves.png)
+![Vila de fundação de Caminha, Minho. Esquerda: planta reconstituída da cidade no século XIII, baseada em @trindade:2009urbanismo, 140; direita: hipótese de esquema modular ideal](https://hcommons.org/app/uploads/sites/1001411/2021/05/pt-caminha-reconstructed-ideal.png){#fig:caminha}
 
 A sobreposição ou justaposição das novas práticas aos
 tecidos históricos interrompeu a vigência de processos de
@@ -364,14 +350,14 @@ Não obstante, os tradicionais tipos de habitação urbana
 portuguesa que emergiram a partir desse período,
 especialmente no centro-sul do país e nas moradas mais
 abastadas, permitiriam a organização do espaço doméstico
-segundo os gradientes de privacidade da casa arabizada.
+segundo os gradientes de privacidade da casa arabizada (@fig:crivos).
 Esta adequação permaneceu ainda mais evidente na casa de
 morada urbana atestada no Brasil desde o período colonial
 até a segunda metade do século XIX.
 
 ![Casa dos crivos ou das gelosias, Braga, século XVII. Foto:
 Direção-Geral do Património Cultural [@dgpc:casa]
-](http://www.patrimoniocultural.gov.pt/static/data/cache/f5/d0/f5d048c59ea49291cd706781c9ba297d.jpg)
+](http://www.patrimoniocultural.gov.pt/static/data/cache/f5/d0/f5d048c59ea49291cd706781c9ba297d.jpg){#fig:crivos}
 
 De fato, a baixa densidade da maioria dos núcleos urbanos de
 origem portuguesa no Brasil, bem como seu caráter de
@@ -406,7 +392,7 @@ e dotado de agudo senso de observação dos costumes,
 registrou que o principal espaço de socialização familiar na
 morada rural e suburbana era a varanda.
 Este espaço assumia sua importância, sobretudo, no convívio
-informal do "pós jantar", em contraste com a socialização
+informal do "pós jantar" (@fig:diner), em contraste com a socialização
 formalizada que teria lugar no "salão"
 [@debret:1835voyage2, p. 42--43].
 Na casa urbana, fosse ela térrea ou assobradada, o espaço
@@ -417,7 +403,7 @@ ocupava a mesma posição espacial e funcional que a varanda
 ![Jean-Baptiste Debret. Descanso na varanda após o
 jantar. Litografia. New York Public Library [@debret:1835voyage2,
 pl. 8; @debret:1835diner]
-]('https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg/507px-La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg')
+](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg/507px-La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:diner}
 
 A morada luso-brasileira como reminiscência da domesticidade árabe
 ------------------------------------------------------------------
@@ -429,7 +415,7 @@ desde a Beira baixa até o Alentejo.
 Esta apresenta uma distribuição com um reduzido número de
 ambientes principais de pequenas dimensões, com distribuição
 compacta transversal e longitudinalmente.
-Nos casos de desdobramento em habitações de frente larga,
+Nos casos de desdobramento em habitações de frente larga (@fig:debret-nypl),
 isto é, com mais de uma célula na frontaria, pode haver
 a introdução de um corredor longitudinal.
 Células dispostas no miolo da construção formam alcovas,
@@ -439,7 +425,7 @@ desprovidas de janelas para o exterior
 ![Jean-Baptiste Debret. Planta de morada urbana no Rio de
 Janeiro. Biblioteca Pública de Nova York [@debret:1839voyage3, pl.
 42; @debret:1839plans]
-](https://images.nypl.org/index.php?id=1224168&t=w&download=1&suffix=510d47df-7b9e-a3d9-e040-e00a18064a99.001)
+](https://images.nypl.org/index.php?id=1224168&t=w&download=1&suffix=510d47df-7b9e-a3d9-e040-e00a18064a99.001){#fig:debret-nypl}
 
 A setorização da morada colonial luso-brasileira dizia
 respeito menos à localização, em caráter permanente, de
@@ -471,7 +457,7 @@ o caráter de reclusão desses espaços.
 
 O percurso ao longo do eixo distributivo da casa colonial
 brasileira terminava, aos fundos, numa grande sala
-comunitária conhecida como *varanda*.
+comunitária conhecida como *varanda* (@fig:babilonia).
 Esta era, com frequência, semiaberta com um avarandado que
 dava sobre o quintal, justificando, assim, seu nome.
 Tratava-se do principal espaço de convivência familiar --- 
@@ -480,9 +466,9 @@ apto a receber diversos usos conforme a disposição da
 mobília:
 refeições, trabalho doméstico, preparo de alimentos, etc.
 
-![Varanda na casa-grande da fazenda Babylonia, Pirenópolis
-(Goiás), primeira metade do século XIX. Foto do autor
-reproduzida em [Wikimedia Commons]()]()
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Varanda na casa-grande da fazenda Babylonia, Pirenópolis (Goiás), primeira metade do século XIX. Foto: [Leon Ivan Dodriac, 2018](https://commons.wikimedia.org/wiki/File:Varanda_da_Fazenda_Babilônia.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fc/Varanda_da_Fazenda_Babilônia.jpg){#fig:babilonia}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A distribuição da morada luso-brasileira evidenciava,
 portanto, a segregação entre a sociabilidade doméstica
@@ -578,14 +564,14 @@ em finais do século XV.
 O "surto mudéjar" manuelino [@dias:1986viagem] é fato
 inconteste cujos fartos e brilhantes frutos podem ser vistos
 em sítios tão distantes entre si quanto o paço da vila de
-Sintra e o chamado paço de D. Manuel em Évora, ambos
+Sintra e o chamado paço de D. Manuel em Évora (@fig:damas), ambos
 reformados por ordem do rei no primeiro Quinhentos, além da
 profusão de azulejaria sevilhana ou de suas imitações
 nacionais por esse período.
 
 ![Galeria das Damas, paço de D. Manuel, Évora, primeira
 década do século XVI. Foto do autor 
-](https://live.staticflickr.com/1791/43372117094_3588c1d993_c_d.jpg)
+](https://live.staticflickr.com/1791/43372117094_3588c1d993_c_d.jpg){#fig:damas}
 
 Tal interpretação, levantada a partir de meados do século
 XIX, fazia porém do "mudejarismo" português no seu todo um
@@ -697,8 +683,6 @@ Mais ainda, evidenciou sua importância na construção de
 monumentos românicos como a obra inicial da Sé Velha de
 Coimbra [@dias:1994arquitectura, p. 56--59].
 
-![Mudéjar na Sé Velha de Coimbra]()
-
 O que não foi posto em questão pela historiografia recente,
 por outro lado, é a caracterização da arte mudéjar erudita
 em Portugal como consistindo, essencialmente, de um número
@@ -723,10 +707,11 @@ patente o impacto duradouro da arabização na arte erudita
 portuguesa, viajando com a expansão territorial do reino
 para dominar, ainda que com técnica simplificada
 e iconografia abastardada, os programas decorativos da
-arquitetura religiosa nas ilhas do Atlântico e no Brasil.
+arquitetura religiosa nas ilhas do Atlântico (@fig:funchal) e no Brasil.
 
-![Teto em alfarje na Sé do Funchal, início do século XVI.
-Foto: reproduzida em [Wikimedia Commons]()]()
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Teto em alfarje na nave central da Sé do Funchal, início do século XVI. Foto: [Hajotthu, 2013](https://commons.wikimedia.org/wiki/File:Funchal_Kathedrale_Holzdecke.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Funchal_Kathedrale_Holzdecke.jpg/1280px-Funchal_Kathedrale_Holzdecke.jpg){#fig:funchal}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Mais recentemente, a ocorrência do aximez tem sido apontada
 como marcador por excelência do atual entendimento da
@@ -738,7 +723,7 @@ De fato, este elemento comparece com frequência na
 arquitetura dita asturiana, ou pré-românica leonesa, que
 acompanhou os primeiros passos do estabelecimento dos novos
 reinos cristãos do planalto do Douro até a Beira alta nos
-séculos IX e X.[^revivalasturiano]
+séculos IX e X (@fig:lourosa).[^revivalasturiano]
 
 [^revivalasturiano]: Paulo Almeida Fernandes considerou
 a igreja matriz de S. Pedro de Lourosa (Oliveira do
@@ -749,11 +734,11 @@ do século IX. Tal leitura reforça o papel deste elemento
 como marcador intencional de identidade cultural.
 [@almeidafernandes:2017velhos24, p. 45--47].
 
-![Matriz de São Pedro de Lourosa, Beira Alta, 912. Foto do
-autor
-]()
-<!--reproduzida em [Wikimedia Commons]()-->
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016](https://commons.wikimedia.org/wiki/File:Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg/1280px-Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg){#fig:lourosa}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+<!--_-->
 
 A contaminação *mourisca* do neoclassicismo no Brasil imperial
 ==============================================================
@@ -784,10 +769,10 @@ Portugal, de modo um tanto obscuro e abstrato:
 > inesperada de situações autónomas, mas interdependentes.
 > [@carita:1999oriente, p. 43]
 
-[^einfuehlung]: @wolfflin:1948kunstgeschichtliche. A adesão
+[^einfuehlung]: @woelfflin:1948kunstgeschichtliche. A adesão
 de Wölfflin à teoria da empatia fora mais forte em sua tese
 de doutorado, declinando ao longo de sua carreira
-subsequente. Ver @wolfflin:1886prolegomena.
+subsequente. Ver @woelfflin:1886prolegomena.
 
 A proposição, que não deixa de ser instigante numa visão de
 conjunto, deixa entretanto abertas todas as interrogações
@@ -816,7 +801,7 @@ vieses estéticos comuns a diversos movimentos de renovação
 arquitetônica, modernistas no sentido estrito ou não
 [@agarez:2016algarve].
 A casa algarvia, com sua geometria compacta, estrutura
-monolítica em taipa, e cobertura formando açoteia,
+monolítica em taipa, e cobertura formando açoteia (@fig:acoteia),
 correspondia a um certo ideal de unicidade cultural
 mediterrânica que perpassava, sem um marco cronológico
 nitidamente definido, as culturas ibéricas e árabes --- 
@@ -828,7 +813,7 @@ da primeira metade do século XX.
 arquiteto Eugénio Correia, Olhão
 (Algarve), 1935--1938  
 Foto: Estúdio Horácio Novais. Acervo FCG Biblioteca de Arte
-](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bairro_do_Cons%C3%B3rcio_Portugu%C3%AAs_de_Conservas_de_Peixe%2C_1938.jpg/749px-Bairro_do_Cons%C3%B3rcio_Portugu%C3%AAs_de_Conservas_de_Peixe%2C_1938.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bairro_do_Consórcio_Português_de_Conservas_de_Peixe,_1938.jpg/749px-Bairro_do_Consórcio_Português_de_Conservas_de_Peixe,_1938.jpg){#fig:acoteia}
 
 À semelhança da expansão ultramarina do reino de Portugal,
 o mudejarismo erudito e a arabização vernácula da cultura
@@ -891,7 +876,7 @@ engenheiros José Fernandes Pinto Alpoim e José Custódio de
 Sá e Faria, entre outros ---, Debret ainda enxergava na obra
 de seu contemporâneo Manuel da Costa
 "detalhes dum estilo mais moderno, mas ainda barroco,
-e tributário do gosto português, fortemente mourisco."
+e tributário do gosto português, fortemente mourisco" (@fig:debret-mourisco).
 [^citdebret1839_3_6]
 
 [^citdebret1839_3_6]: "[...] des détails d'un style plus
@@ -900,7 +885,7 @@ lourdement moresque." [@debret:1839voyage3, p. 6].
 
 ![Jean-Baptiste Debret. Paço da Quinta da Boa Vista em São
 Cristóvão, Rio de Janeiro, c. 1826 [@debret:1839voyage3, pl. X]
-](http://objdigital.bn.br/acervo_digital/div_iconografia/icon393054/icon393054_154.jpg)
+](http://objdigital.bn.br/acervo_digital/div_iconografia/icon393054/icon393054_154.jpg){#fig:debret-mourisco}
 
 A leitura depreciativa deste "gosto mourisco" será talvez
 menos surpreendente, dada a vinculação teórica de Debret, do
@@ -916,7 +901,9 @@ implícitas da arquitetura vernácula que transparecem na obra
 de Debret.
 
 ![Henry Chamberlain. Uma historia, 1822 [@chamberlain:1822views]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Huma_historia_%282%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg/1024px-Huma_historia_%282%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Huma_historia_(2),_da_Coleção_Brasiliana_Iconográfica.jpg/1024px-Huma_historia_(2),_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:chamberlain}
+
+<!--_,-->
 
 De fato, Debret tratou da arquitetura vernácula do Rio de
 Janeiro sob um viés mais social do que artístico, como
@@ -946,8 +933,6 @@ vínculo da varanda brasileira com a "galeria mourisca":
   cylindriques de sa couverture.
   [@debret:1835voyage2, p. 42]
 
-![Jean-Baptiste Debret. Varanda]()
-
 O "estilo mourisco" das colunas seria desconcertante para um
 classicista moderno, que enxergaria na litografia simples
 colunas toscanas, talvez menos esbeltas do que manda
@@ -968,8 +953,6 @@ isso mesmo enfatizaram um elemento de orientalismo genérico
 chineses" --- que o classicista *blasé* poderia ter incluído
 na conta do "mourisco".
 
-![Telhados do Rio segundo Debret]()
-
 
 Epílogo: Do *revival* à memória
 ===============================
@@ -985,13 +968,14 @@ estava, porém, num percurso descendente a esta altura.
 O encerramento do ciclo de europeização da arte portuguesa,
 com o triunfo do classicismo *à francesa* no início do
 século XIX, imediatamente abriu as portas para um novo
-ciclo de arabização artística e arquitetônica.
+ciclo de arabização artística e arquitetônica (@fig:bolsa).
 
 ![Joaquim da Costa Lima. Palácio da Bolsa, sede da
 Associação Comercial do Porto, 1842--1848. Foto: Aurélio Paz
 dos Reis, anterior a 1894
-](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa%2C_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique%2C_iniciado_em_1894_%28APR%29_%289289615971%29.jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa%2C_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique%2C_iniciado_em_1894_%28APR%29_%289289615971%29.jpg)
-<!--reproduzida em [Wikimedia Commons]('https://commons.wikimedia.org/wiki/File:Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg')-->
+](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg){#fig:bolsa}
+
+<!--_,-->
 
 Paradoxalmente, este novo ciclo era, também, derivado de
 influências europeias:
@@ -1016,11 +1000,10 @@ Os meios de expressão do *neomudéjar* oitocentista seriam
 análogos àqueles do "mudéjar de importação" manuelino:
 elementos iconográficos da arquitetura erudita, destinados
 à ambientação de espaços ou mesmo superfícies considerados
-individualmente.
+individualmente (@fig:monserrate).
 
 ![James Thomas Knowles. Palácio de Monserrate, Sintra, após
-1856. Foto: Pedro P. Palazzo, 2018, reproduzida em [Wikimedia
-Commons]()]()
+1856. Foto: [Rodrigo Tetsuo Argenton, 2019](https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pal%C3%A1cio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_%286%29.jpg/683px-Pal%C3%A1cio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_%286%29.jpg){#fig:monserrate}
 
 A partir de finais do século XIX, os estudos etnográficos
 dariam ensejo a uma tímida busca pelo legado árabe na
@@ -1041,7 +1024,7 @@ formulação de justificativas sociais e climáticas para
 o movimento [@mariannofilho:1943influencias].
 A partir daí, a gelosia montada em rótulas e formando parte
 de um muxarabiê passaria a ser um ícone incontornável da
-arquitetura vernácula colonial.
+arquitetura vernácula colonial (@fig:monjope).
 De exemplo de adequação ao clima a marcador da sociabilidade
 privatizada e escravista, a historiografia [@marins:2001atraves]
 deu a essa reminiscência árabe na morada vernácula
@@ -1052,8 +1035,7 @@ anteriores.
 1920--1928, baseado em documentação por Nereu Sampaio,
 Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa.
 [@mariannofilho:1943influencias]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg)
-<!--reproduzida em [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Marianno_Filho_1943_Influencias_mu%C3%A7ulmanas_na_architectura_tradicional_Monjope.tif)]-->
+](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg){#fig:monjope}
 
 Referências bibliográficas
 ==========================
