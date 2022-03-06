@@ -6,8 +6,7 @@ permalink: /ppalazzo/
 date: "2019-10-23"
 ---
 
-Introdução: das reminiscências ao revivalismo
-=============================================
+# Introdução: das reminiscências ao revivalismo #
 
 O regionalismo arquitetônico tem como ponto de partida a
 análise erudita de um *corpus* documental situado fora dos
@@ -64,11 +63,7 @@ observado na Europa ocidental, de introdução de motivos
 orientalistas no repertório da arquitetura eclética.
 
 
-Urbanismo arabizado e *des-arabizado*
-=====================================
-
-Substrato árabe na urbanização de Portugal
-------------------------------------------
+# Urbanismo arabizado e *des-arabizado* #
 
 Tecidos arabizados nos séculos VIII a X, tais como
 a Alfama lisboeta ou o centro de Évora, formaram-se pela
@@ -156,8 +151,6 @@ largos onde se situavam equipamentos comunitários, tais como
 bicas ou locais de culto, e por vezes algum comércio
 [@mazzoli-guintard:2000ciudades, p. 98].
 
-
-Reurbanização afonsina
 ----------------------
 
 Como seria de se esperar, dada a persistência dos traçados
@@ -273,11 +266,7 @@ efetivaria de finais do século XIV a meados do XV
 [@trindade:2009urbanismo, p. 626].
 
 
-Heranças árabes na domesticidade luso-brasileira
-================================================
-
-Público e privado: reminiscências retrospectivas
-------------------------------------------------
+# Heranças árabes na domesticidade luso-brasileira #
 
 O tipo edilício de base, a casa vernácula resultante desse
 reparcelamento, foi no Norte e no Centro de Portugal
@@ -405,7 +394,6 @@ jantar. Litografia. New York Public Library [@debret:1835voyage2,
 pl. 8; @debret:1835diner]
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg/507px-La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:diner}
 
-A morada luso-brasileira como reminiscência da domesticidade árabe
 ------------------------------------------------------------------
 
 A configuração típica da casa de morada instaurada no Brasil
@@ -513,11 +501,7 @@ habitações da classe média alta, releitura espacialmente
 peculiar das *family rooms* norte-americanas.
 
 
-Mourisco, moçárabe ou mudéjar?
-==============================
-
-O lugar periférico do ornato hispanomuçulmano na historiografia portuguesa
---------------------------------------------------------------------------
+# Mourisco, moçárabe ou mudéjar? #
 
 O estudo das reminiscências islâmicas na morfologia do
 espaço urbano e doméstico luso-brasileiro caracteriza um
@@ -624,8 +608,6 @@ aprofundamento dos laços comerciais e industriais entre os
 dois países
 [@ferreira:2014lisboa, p. 236].
 
-
-O *mudejarismo* erudito: controvérsias historiográficas
 -------------------------------------------------------
 
 As análises da primeira metade do século XX colocariam,
@@ -740,11 +722,7 @@ como marcador intencional de identidade cultural.
 
 <!--_-->
 
-A contaminação *mourisca* do neoclassicismo no Brasil imperial
-==============================================================
-
-Abstrações teóricas e o *mudejarismo*
--------------------------------------
+# A contaminação *mourisca* do neoclassicismo no Brasil imperial #
 
 A ênfase total neste âmbito dos elementos
 formais individualizados tornou-se um curioso reminiscente
@@ -827,8 +805,6 @@ comparecera, já no século XIX, como um tema marcante na
 elaboração de uma narrativa sobre a identidade cultural da
 antiga América portuguesa.
 
-
-O Brasil *mourisco* dos viajantes
 ---------------------------------
 
 Debret, cujas memórias do Brasil já foram tratadas mais
@@ -954,8 +930,7 @@ chineses" --- que o classicista *blasé* poderia ter incluído
 na conta do "mourisco".
 
 
-Epílogo: Do *revival* à memória
-===============================
+# Epílogo: do *revival* à memória #
 
 A leitura depreciativa de Debret quanto às reminiscências
 hispanomuçulmanas na arquitetura luso-brasileira enfatizou
@@ -975,7 +950,7 @@ Associação Comercial do Porto, 1842--1848. Foto: Aurélio Paz
 dos Reis, anterior a 1894
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg){#fig:bolsa}
 
-<!--_,-->
+<!--_-->
 
 Paradoxalmente, este novo ciclo era, também, derivado de
 influências europeias:
@@ -1003,7 +978,7 @@ elementos iconográficos da arquitetura erudita, destinados
 individualmente (@fig:monserrate).
 
 ![James Thomas Knowles. Palácio de Monserrate, Sintra, após
-1856. Foto: [Rodrigo Tetsuo Argenton, 2019](https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pal%C3%A1cio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_%286%29.jpg/683px-Pal%C3%A1cio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_%286%29.jpg){#fig:monserrate}
+1856. Foto: [Rodrigo Tetsuo Argenton, 2019](https://commons.wikimedia.org/wiki/File:Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg/683px-Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg){#fig:monserrate}
 
 A partir de finais do século XIX, os estudos etnográficos
 dariam ensejo a uma tímida busca pelo legado árabe na
@@ -1036,7 +1011,4 @@ anteriores.
 Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa.
 [@mariannofilho:1943influencias]
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg){#fig:monjope}
-
-Referências bibliográficas
-==========================
 
