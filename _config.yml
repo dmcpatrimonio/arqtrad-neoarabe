@@ -15,8 +15,8 @@ description: >-
   pelo ecletismo estético, pelo sincretismo de práticas
   culturais e pela ressignificação de argumentos
   históricos assim como de identidades comunitárias.
-baseurl                  : "/neoarabe"
-url                      : "https://dmcpatrimonio.github.io"
+baseurl                  : ""
+url                      : "https://neoarabe.com.br"
 repository               : dmcpatrimonio/neoarabe
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : '/assets/230px-Azulejo_decorado_con_estrellas_Antonio_Vadillo_Plata.jpg'
