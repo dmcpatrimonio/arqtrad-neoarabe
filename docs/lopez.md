@@ -2,6 +2,8 @@
 title: "Alhambras: arquitetura neoárabe na América latina"
 author: Rafael López Guzmán
 permalink: "/lopez/"
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1001411/2019/07/1.mexico_23-640x427.jpg
 ---
 
 # Introdução #

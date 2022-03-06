@@ -12,4 +12,5 @@ filters:
 metadata:
   bibliography: _data/biblio.yaml
   csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
+  crossrefYaml: "_data/crossref.yaml"
   suppress-bibliography: true

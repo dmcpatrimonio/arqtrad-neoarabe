@@ -1,6 +1,10 @@
 Carmen Lícia Palazzo:
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Historiadora"
+  name             : 'Carmen Lícia Palazzo'
+  avatar           : '/assets/clpalazzo.jpg'
+  bio: >
+    Historiadora, escritora. Realiza pesquisas sobre as visões
+    ocidentais do Oriente e trabalha com relatos de viajantes como
+    fontes para os historiadores.
   location         : "Brasília"
   email            : carmenlicia@gmail.com
   links:
@@ -27,9 +31,12 @@ Carmen Lícia Palazzo:
       #url: "https://instagram.com/"
 
 Carolina Pescatori:
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Arquiteta e Urbanista"
-  location         : "Professora associada da Faculdade de Arquitetura e Urbanismo, Universidade de Brasília"
+  name             : 'Carolina Pescatori'
+  avatar           : '/assets/pescatori.jpg'
+  bio: >
+    Arquiteta e Urbanista, professora associada da Faculdade de
+    Arquitetura e Urbanismo.
+  location         : "Universidade de Brasília"
   email            : pescatori@unb.br
   links:
     - label: "ORCID"
@@ -55,13 +62,14 @@ Carolina Pescatori:
       #url: "https://instagram.com/"
 
 Patrícia El-moor:
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : 'Patrícia El-moor'
+  avatar           : '/assets/el-moor.jpg'
   bio: >
     Doutora em sociologia da cultura pela Universidade de Brasília.
     Idealizadora do projeto Presença Árabe no Brasil e Coordenadora
     Cultural do Instituto de Cultura Árabe-Brasileira.
   location         : "Brasília"
-  email            : 
+  email            : patricia.elmoor@gmail.com
   links:
     - label: "ORCID"
       icon: "ai fa-fw ai-orcid"
@@ -86,9 +94,12 @@ Patrícia El-moor:
       #url: "https://instagram.com/"
 
 Pedro P. Palazzo:
+  name             : 'Pedro P. Palazzo'
   avatar           : "https://avatars3.githubusercontent.com/u/8295666"
-  bio              : "Arquiteto e historiador"
-  location         : "Professor associado da Faculdade de Arquitetura e Urbanismo, Universidade de Brasília"
+  bio: >
+    Arquiteto e historiador, professor associado da Faculdade de
+    Arquitetura e Urbanismo
+  location         : "Universidade de Brasília"
   email            : palazzo@unb.br
   links:
     - label: "ORCID"
@@ -114,9 +125,14 @@ Pedro P. Palazzo:
       url: "https://instagram.com/p3palazzo"
 
 Rafael López Guzmán:
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Historiador da Arte"
-  location         : "Professor catedrático da Universidade de Granada"
+  name             : 'Rafael López Guzmán'
+  avatar           : '/assets/Rafael_López_Guzmán_2015_cropped.jpg'
+  bio: >
+    Professor catedrático de história da arte na Universidade de
+    Granada, onde integra o grupo de pesquisa Andaluzia--América:
+    Patrimônio cultural e relações artísticas, e membro correspondente
+    da Real Academia de Belas-Artes de San Fernando.
+  location         : "Universidade de Granada"
   email            : 
   links:
     - label: "ORCID"
@@ -142,9 +158,14 @@ Rafael López Guzmán:
       #url: "https://instagram.com/"
 
 Sylvia Ficher:
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Arquiteta e Historiadora"
-  location         : "Professora emérita da Universidade de Brasília"
+  name             : 'Sylvia Ficher'
+  avatar           : '/assets/ficher.jpg'
+  bio: >
+    Professora emérita da Universidade de Brasília e
+    pesquisadora do Programa de Pós-Graduação da Faculdade de
+    Arquitetura e Urbanismo, onde coordena o grupo de pesquisa
+    Arquitetura e Urbanismo da Região de Brasília.
+  location         : "Universidade de Brasília"
   email            : sficher@unb.br
   links:
     - label: "ORCID"

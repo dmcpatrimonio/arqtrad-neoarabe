@@ -19,7 +19,7 @@ baseurl                  : "/neoarabe"
 url                      : "https://dmcpatrimonio.github.io"
 repository               : dmcpatrimonio/neoarabe
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : '/assets/230px-Azulejo_decorado_con_estrellas_Antonio_Vadillo_Plata.jpg'
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -54,7 +54,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : true
-search_full_content      : # true, false (default)
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -195,7 +195,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..2
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 relative_links:
@@ -286,6 +286,9 @@ defaults:
       comments: false
       share: true
       related: false
+      toc: true
+      toc_sticky: true
       sidebar:
         nav: "sumario"
-      toc: true
+      header:
+        overlay_filter: 0.3
