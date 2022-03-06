@@ -4,6 +4,8 @@ author: Pedro P. Palazzo
 keywords: [História da Arquitetura, Regionalismo, Neoárabe]
 permalink: /ppalazzo/
 date: "2019-10-23"
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Funchal_Kathedrale_Holzdecke.jpg/2560px-Funchal_Kathedrale_Holzdecke.jpg
 ---
 
 # Introdução: das reminiscências ao revivalismo #
@@ -389,10 +391,7 @@ que ele designava como "salle à manger" (sala de jantar)
 ocupava a mesma posição espacial e funcional que a varanda
 [@debret:1839voyage3, p. 214].
 
-![Jean-Baptiste Debret. Descanso na varanda após o
-jantar. Litografia. New York Public Library [@debret:1835voyage2,
-pl. 8; @debret:1835diner]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg/507px-La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:diner}
+![Jean-Baptiste Debret. Descanso na varanda após o jantar. Litografia. New York Public Library [@debret:1835voyage2, pl. 8]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg/507px-La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:diner}
 
 ------------------------------------------------------------------
 
@@ -410,10 +409,7 @@ Células dispostas no miolo da construção formam alcovas,
 desprovidas de janelas para o exterior
 [Ver @palazzo:2018tipologia].
 
-![Jean-Baptiste Debret. Planta de morada urbana no Rio de
-Janeiro. Biblioteca Pública de Nova York [@debret:1839voyage3, pl.
-42; @debret:1839plans]
-](https://images.nypl.org/index.php?id=1224168&t=w&download=1&suffix=510d47df-7b9e-a3d9-e040-e00a18064a99.001){#fig:debret-nypl}
+![Jean-Baptiste Debret. Planta de morada urbana no Rio de Janeiro. Biblioteca Pública de Nova York [@debret:1839voyage3, pl. 42]](https://hcommons.org/app/uploads/sites/1001411/2022/03/debret-plan-nypl.jpg){#fig:debret-nypl}
 
 A setorização da morada colonial luso-brasileira dizia
 respeito menos à localização, em caráter permanente, de
@@ -716,9 +712,7 @@ do século IX. Tal leitura reforça o papel deste elemento
 como marcador intencional de identidade cultural.
 [@almeidafernandes:2017velhos24, p. 45--47].
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016](https://commons.wikimedia.org/wiki/File:Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg/1280px-Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg){#fig:lourosa}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <!--_-->
 

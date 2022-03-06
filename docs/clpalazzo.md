@@ -2,6 +2,8 @@
 title: "A arte islâmica nos caminhos da rota da Seda"
 author: Carmen Lícia Palazzo
 permalink: "/clpalazzo/"
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1001411/2019/06/IMG_3970-640x508.jpg
 ---
 
 # Introdução #

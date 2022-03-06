@@ -2,6 +2,8 @@
 title: "A desconstrução do ecletismo: modernismo vs historicismo"
 author: Sylvia Ficher
 permalink: "/ficher/"
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1001411/2022/03/brighton.jpg
 ---
 
 # Adjetivando a arquitetura #

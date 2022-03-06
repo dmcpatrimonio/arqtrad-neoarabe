@@ -3,8 +3,7 @@ title: Apresentação
 layout: single
 toc: false
 header:
-  overlay_image:
-  caption:
+  overlay_image: https://hcommons.org/app/uploads/sites/1001411/2019/06/cropped-IOC_V_III_081-3.jpg-3.jpg
 ---
 
 O lugar privilegiado das reminiscências históricas e influências
