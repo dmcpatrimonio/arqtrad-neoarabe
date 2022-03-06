@@ -223,4 +223,8 @@ label.margin-toggle:not(.sidenote-number) {
     }
 }
 
+.subfigures {
+    @extend figcaption;
+}
+
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :

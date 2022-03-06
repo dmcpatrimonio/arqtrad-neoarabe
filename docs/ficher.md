@@ -17,8 +17,8 @@ edificação acatada como *arquitetura* era, como que dito entre
 parêntese, *clássica*, baseada em princípios tidos como fixos para todo
 o sempre e de universal validade. Arquitetura renascentista, maneirista,
 barroca ou rococó\..., todas, apesar de suas diferenças e divergências,
-variações em torno do classicismo, todas tendo como *precedente* -- e
-esta é uma palavra-chave -- a Antiguidade greco-romana. Até quando se dá
+variações em torno do classicismo, todas tendo como *precedente* --- e
+esta é uma palavra-chave --- a Antiguidade greco-romana. Até quando se dá
 o que Gaston Bachelard, em *La formation de l\'esprit scientifique*
 (1938), descreveu como uma *ruptura epistemológica*, concepção estendida
 para a filosofia por Michel Foucault, em sua *L\'archéologie du savoir*
@@ -44,7 +44,7 @@ diante de situações extremadas ou evocativas. O que explica o encanto
 por vestígios do passado, como ruínas, e por paisagens grandiosas, como
 montanhas ou desfiladeiros.
 
-![*O caminhante sobre o mar de névoa* (1818), de Caspar David Friedrich, é considerado uma representação do espírito romântico. Fonte: <https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg>. Acesso em: 19 nov. 2018.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:caspar}
+![*O andarilho sobre o mar de névoa* (1818), de Caspar David Friedrich, é considerado uma representação do espírito romântico. Fonte: <https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg>. Acesso em: 19 nov. 2018.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:caspar}
 
 As manifestações sublimes não deixaram de ser apreciadas, como demonstra
 as legiões de turistas que acorrem a visitar Niagara Falls e as
@@ -88,7 +88,7 @@ Recife, lá instalados no século dezoito. Igualmente em Minas Gerais,
 como apreciamos nas *chinesices* das pinturas da Igreja de Nossa Senhora
 do Ó, em Sabará.
 
-![Leão de Fô, Convento de Santo Antônio, João Pessoa. Fonte: Germain Bazin, *L'architecture religieuse baroque au Brésil*, 1958, 2 v., Planche 40](media/image2.jpeg){#fig:bazin}
+![Leão de Fô, Convento de Santo Antônio, João Pessoa. Fonte: Germain Bazin, *L'architecture religieuse baroque au Brésil*, 1958, 2 v., Planche 40](https://hcommons.org/app/uploads/sites/1001411/2022/03/leao-de-fo.jpeg){#fig:bazin}
 
 Arquiteturas adventícias do Egito, da Índia\... A predileção pela arte
 egípcia é coisa antiga, Roma possuindo vários obeliscos lá instalados
@@ -123,7 +123,7 @@ Pesto, no sul da Itália, que pouco interesse haviam despertado até
 então.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Templos de Hera, Pesto, 550 a.C. e 460 a.C. Fonte: <https://en.wikipedia.org/wiki/Paestum#/media/File:Veduta_di_Paestum_2010.jpg>. Acesso em: 16 out. 2018](https://upload.wikimedia.org/wikipedia/commons/f/fb/Veduta_di_Paestum_2010.jpg){#fig:paestum}
+![Templos de Hera, Pesto, 550 a.C. e 460 a.C. Fonte: <https://en.wikipedia.org/wiki/Paestum#/https://hcommons.org/app/uploads/sites/1001411/2022/03/File:Veduta_di_Paestum_2010.jpg>. Acesso em: 16 out. 2018](https://upload.wikimedia.org/wikipedia/commons/f/fb/Veduta_di_Paestum_2010.jpg){#fig:paestum}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A Grécia ficava lá no Império Otomano e somente se tornaria mais
@@ -132,12 +132,12 @@ Mesmo assim, sua arquitetura pôde ser divulgada em maior detalhe graças
 aos levantamentos precisos efetuados pelos ingleses James Stuart
 (1713-88) e Nicholas Revett (1721-1804), publicados de 1762 em diante
 como *The antiquities of Athens*, e pouco depois pelo francês
-Julien-David Le Roy (1724-1803) -- num furo de reportagem publicados
+Julien-David Le Roy (1724-1803) --- num furo de reportagem publicados
 antes, em 1758 --, como *Ruines des plus beaux monuments de la Grèce*.
 
-![Erecteu, Atenas. Fonte: James Stuart e Nicholas Revett, *The antiquities of Athens*, 1762](media/image7.jpeg){#fig:ercteu}
+![Erecteu, Atenas. Fonte: James Stuart e Nicholas Revett, *The antiquities of Athens*, 1762](https://hcommons.org/app/uploads/sites/1001411/2022/03/erecteu.jpg){#fig:ercteu}
 
-![Templo de Minerva, Atenas. Fonte: Julien-David Le Roy, *Ruines des plus beaux monuments de la Grèce*, 1758](media/image8.jpeg){#fig:leroy}
+![Templo de Minerva, Atenas. Fonte: Julien-David Le Roy, *Ruines des plus beaux monuments de la Grèce*, 1758](https://hcommons.org/app/uploads/sites/1001411/2022/03/minerva-parthenon.jpg){#fig:leroy}
 
 O que deu origem a uma *arquitetura completamente nova*, o neogrego.
 Arquitetura nova e muito cortejada em edificações de grande prestígio,
@@ -162,10 +162,10 @@ então influencia o vestuário feminino.
 
 ![Guillaume Couture e outros, Igreja da Madeleine, Paris, 1763-1828. Fonte: <https://br.pinterest.com/pin/272890058650803196/>. Acesso em: 16 out. 2018](https://i.pinimg.com/originals/77/0d/a8/770da87b972e56ea429253871c836a3f.jpg){#fig:madeleine}
 
-![Vestidos nos estilos Diretório e Império. Augustin Challamel, *The history of fashion in France*, 1882, p. 190. Fonte: <https://archive.org/details/historyoffashion00chal/page/n7>. Acesso em: 16 out. 2018](media/image11.jpeg){#fig:challamel}
+![Vestidos nos estilos Diretório e Império. Augustin Challamel, *The history of fashion in France*, 1882, p. 190. Fonte: <https://archive.org/details/historyoffashion00chal/page/n7>. Acesso em: 16 out. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/challamel-directoire.jpg){#fig:challamel}
 
-Simplificando, o Ecletismo representou a coexistência -- autorizada,
-inclusive, em uma única obra -- dos vários classicismos, aos quais se
+Simplificando, o Ecletismo representou a coexistência --- autorizada,
+inclusive, em uma única obra --- dos vários classicismos, aos quais se
 somaram outras opções históricas e algumas modas exóticas, todos
 acatados como *precedentes válidos*. Precedentes estes estabelecidos em
 levantamentos diretos de originais, registrados em ilustrações ou
@@ -183,8 +183,8 @@ Thomas Chippendale (1718-79), ao cabo ele mesmo um estilo.
 Pode-se iniciar a argumentação com uma citação de John Summerson:
 
 > Estamos acostumados a avaliar edifícios, grupos de edifícios,
-> episódios, escolas de arquitetura, com o pressuposto de que -- tenham
-> ou não uma relevância imediata ou um apelo emocional para nós -- eles
+> episódios, escolas de arquitetura, com o pressuposto de que --- tenham
+> ou não uma relevância imediata ou um apelo emocional para nós --- eles
 > foram, ao menos no seu tempo, aceitos como corretos\... \[No entanto\]
 > a arquitetura de princípios e de meados da era vitoriana foi, em seu
 > próprio tempo e aos olhos de seus críticos mais bem informados, um
@@ -204,7 +204,7 @@ longo do século vinte.
 Mas qual o motivo do insucesso diagnosticado por Summerson? Como aventa
 Carl Schorske, esse fracasso teria sido causado pela perda progressiva,
 à medida que avançava o século dezenove, da centralidade cultural e da
-legitimidade do historicismo -- a racional fundadora aplicada à sua
+legitimidade do historicismo --- a racional fundadora aplicada à sua
 produção artística em geral e tão evidente na arquitetura. Ao discutir o
 contexto intelectual em que floresce o *historicismo*, em que este mesmo
 *historicismo* vai sendo descartado e em que desponta o *ahistoricismo
@@ -231,12 +231,12 @@ modernista*, esclarece:
 > e 90; grifo meu).[^2]
 
 Schorske nos oferece uma chave de leitura para o que podemos chamar de
-dilema *passadismo* vs. *presentismo* -- como se o presente que se vive
+dilema *passadismo* vs. *presentismo* --- como se o presente que se vive
 fosse alheio ao passado, como se os processos de mudança e renovação
 ocorressem em um eterno agora. Para ele, o historicismo que distingue a
 produção intelectual pós-revolução industrial teria representado uma
-*âncora cultural*, uma *âncora intelectual* -- e, por que não, uma
-*âncora emocional*? -- em um mundo em rápida mutação social, tecnológica
+*âncora cultural*, uma *âncora intelectual* --- e, por que não, uma
+*âncora emocional*? --- em um mundo em rápida mutação social, tecnológica
 e científica. Diante das transformações vertiginosas pelas quais a
 sociedade passava com a industrialização, com o crescimento urbano, com
 o surgimento de novas relações de classe, o *apego à história* poderia
@@ -250,7 +250,7 @@ adequação à nova realidade\..., ao presente.
 Por extensão, a crítica do Ecletismo seria fruto das mesmas condições
 que lhe haviam dado sustentação, tendo raiz na insatisfação dos
 contemporâneos diante da incapacidade de uma sociedade tão sofisticada
-como a deles de criar uma arte do seu tempo, do seu *Zeitgeist* -- uma
+como a deles de criar uma arte do seu tempo, do seu *Zeitgeist* --- uma
 *arte com estilo próprio*. Algo como: \"Somos tão avançados em tantas
 coisas e, no entanto, somos incapazes de criar um estilo novo, o nosso
 estilo\...\" A tensão entre esses dois posicionamentos, de apreço ou de
@@ -267,20 +267,20 @@ ainda em seu tempo.
 >
 > <cite>Gabriel-Germain Boffrand, *Livre d\'Architecture*\..., 1745</cite>
 
-Evidentemente, muitos não enxergaram nessa arquitetura -- como muitos
-hoje não enxergam -- nada além de *um mero exercício formal de aplicação
+Evidentemente, muitos não enxergaram nessa arquitetura --- como muitos
+hoje não enxergam --- nada além de *um mero exercício formal de aplicação
 de estilos de outras épocas ou lugares*, de imitações baratas de
 edificações alheias. No entanto, assim como temos consciência de que não
 somos infalíveis, não precisamos de igual modo aceitar o desagrado
 daqueles contemporâneos frente à arquitetura eclética. A apreciação
-deles pode ter sido -- e a meu ver, foi -- tão errônea quanto a de
+deles pode ter sido --- e a meu ver, foi --- tão errônea quanto a de
 qualquer um de nós frente à nossa atualidade, aos fatos que estamos
 vivendo.
 
-Os programas renovados ou integralmente inéditos -- como assembleias,
+Os programas renovados ou integralmente inéditos --- como assembleias,
 casas de ópera e teatros, bolsas de valores e sedes bancárias, galerias
 comerciais e lojas de departamentos, pavilhões de exposição, estações
-ferroviárias, edifícios de escritório, galpões industriais -- não foram
+ferroviárias, edifícios de escritório, galpões industriais --- não foram
 apreciados como *elementos constitutivos de um estilo próprio*. E,
 tampouco, a ampliação do repertório material e técnico ou os
 excepcionais feitos estruturais. Nada disso parece ter sensibilizado os
@@ -310,39 +310,25 @@ inesperadas, como aquela do Bradbury Building (1893), em Los Angeles,
 cujos modestos cinco andares foram esticados indefinidamente em *Blade
 Runner* (1982).
 
-![](media/image13.jpeg){width="3.1527777777777777in"
-height="2.361111111111111in"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pitt}
+![Exterior: <http://www.donnalanclos.com/london-travelogue-part-the-second-mostly-not-london-the-pitt-rivers-museum-with-a-bit-of-the-soane-at-the-end/>. Acesso em: 16 nov. 2018.](https://hcommons.org/app/uploads/sites/1001411/2022/03/pitt-ext.jpg){#fig:pitt-ext}
 
-![](media/image14.jpeg){width="3.736111111111111in"
-height="1.9861111111111112in"}
+![Interior: *Pesquisa*, n.º 272, p. 29, out. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/pitt-int.jpg){#fig:pitt-int}
 
-**Thomas Manly Deane, Pitt-Rivers Museum, Oxford, 1885.**
+Thomas Manly Deane, Pitt-Rivers Museum, Oxford, 1885
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Exterior:
-<http://www.donnalanclos.com/london-travelogue-part-the-second-mostly-not-london-the-pitt-rivers-museum-with-a-bit-of-the-soane-at-the-end/>\>.
-Acesso em: 16 nov. 2018.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:bradbury}
+![Exterior: <https://commons.wikimedia.org/wiki/File:Bradbury_Building3.jpg>. Acesso em: 18 out. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bradbury_Building3.jpg/1024px-Bradbury_Building3.jpg){#fig:bradbury-ext}
 
-**Interior: *Pesquisa*, n^o^ 272, p. 29, out. 2018.**
+![Interior: <https://commons.wikimedia.org/wiki/File:Bradbury_Building,_interior,_ironwork.jpg>. Acesso em: 18 out. 2018.](https://hcommons.org/app/uploads/sites/1001411/2022/03/bradbury-int.jpg){#fig:bradbury-int}
 
-![](media/image15.jpeg){width="2.9305555555555554in"
-height="2.0416666666666665in"}
-![](media/image16.jpeg){width="2.736111111111111in"
-height="2.0416666666666665in"}
-
-**Sumner Hunt e George Wyman, Bradbury Building, Los Angeles, 1893**
-
-**Exterior:
-\<<https://commons.wikimedia.org/wiki/File:Bradbury_Building3.jpg>\>.
-Acesso em: 18 out. 2018.**
-
-**Interior:
-\<<https://commons.wikimedia.org/wiki/File:Bradbury_Building,_interior,_ironwork.jpg>\>.
-<!--_,-->
-Acesso em: 18 out. 2018.**
+Sumner Hunt e George Wyman, Bradbury Building, Los Angeles, 1893
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Essas eram as novidades; aí residia o *estilo do presente* lá deles.
 Aceitando-se que no século dezenove não tenha sido criado um *sistema
-decorativo original* -- o que está aberto ao debate --, com certeza
+decorativo original* --- o que está aberto ao debate --, com certeza
 produziu-se uma *arquitetura completamente nova*. Ninguém deixa de
 reconhecer um prédio como representativo do Ecletismo enganado por sua
 ornamentação. Ninguém, diante de uma edificação neogótica, como a
@@ -353,40 +339,19 @@ diante de uma basílica românica ao se deparar com a Catedral de Formosa,
 apesar de seus arcos plenos e do grande interesse que despertou no Papa
 Francisco.
 
-![](media/image17.jpeg){width="2.361111111111111in"
-height="3.388888888888889in"}
+![Catedral Metropolitana de Aracaju, 1875. Fonte: Ronaldo Caldas/MinC](https://upload.wikimedia.org/wikipedia/commons/a/a6/Sérgio_Sá_Leitão_vistoria_obras_da_Catedral_de_Aracaju_(38936919635).jpg){#fig:aracaju}
 
-**Catedral Metropolitana de Aracaju, 1875.**
-
-**Fonte:
-\<<https://pt.wikipedia.org/wiki/Catedral_Arquidiocesana_Nossa_Senhora_da_Concei%C3%A7%C3%A3o>\>.
-Acesso em: 15 mar. 2018.**
-
-![](media/image18.jpeg){width="3.1527777777777777in"
-height="2.361111111111111in"}
-
-**Catedral Nossa Senhora da Imaculada Conceição, Formosa, Goiás.**
-
-**Fonte:
-\<<http://diocesedeformosa.com.br/paroquias/catedral-nossa-senhora-da-imaculada-conceicao/>\>.
-Acesso em: 18 abr. 2018.**
+![Catedral Nossa Senhora da Imaculada Conceição, Formosa, Goiás. Fonte: <http://diocesedeformosa.com.br/paroquias/catedral-nossa-senhora-da-imaculada-conceicao/>. Acesso em: 18 abr. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/formosa.jpg){#fig:formosa}
 
 Lembrando que até edificações genuinamente antigas podem ser ecléticas,
 em função da longa duração de sua construção. Conforme demonstrado por
 Rudolf Wittkower, em *Gothic vs. Classic* (1974), no caso extremo do
 Duomo de Milão, cuja fachada foi concluída com elementos neoclássicos
-por exigência imposta e paga por Napoleão -- quem o teria imaginado tão
-antenado em arquitetura? -- quando de sua coroação como Rei da Itália em
+por exigência imposta e paga por Napoleão --- quem o teria imaginado tão
+antenado em arquitetura? --- quando de sua coroação como Rei da Itália em
 1805.
 
-![](media/image19.jpeg){width="3.5416666666666665in"
-height="2.6527777777777777in"}
-
-**Duomo de Milão, 1386-1965.**
-
-**Fonte:
-\<<https://upload.wikimedia.org/wikipedia/commons/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg>\>.
-Acesso em: 15 mar. 2018.**
+![Duomo de Milão, 1386-1965. Fonte: <https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg>. Acesso em: 15 mar. 2018.](https://upload.wikimedia.org/wikipedia/commons/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg){#fig:milano}
 
 Visitando Kew Gardens, em Londres, sabemos que o pagode com o qual nos
 surpreendemos não é chinês, ainda que siga modelos orientais, construído
@@ -396,40 +361,18 @@ confundimos quando nos deparamos com a neogótica Catedral do Sagrado
 Coração de Jesus, em Cantão, cuja fachada teve como modelo a igualmente
 neogótica Basílica de Santa Clotilde, em Paris.
 
-![](media/image20.jpeg){width="2.361111111111111in"
-height="3.5555555555555554in"}
+![William Chambers, Great Pagoda, Kew Gardens, Londres, 1762. Fonte: <https://commons.wikimedia.org/wiki/Kew_Gardens_-_Pagoda_01.jpg>. Acesso em: 15 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/f/ff/Kew_Gardens_-_Pagoda_01.jpg){#fig:kew}
 
-**William Chambers, Great Pagoda, Kew Gardens, Londres, 1762.**
-
-**Fonte:
-\<<https://upload.wikimedia.org/wikipedia/commons/f/ff/Kew_Gardens_-_Pagoda_01.jpg>\>.
-<!--_,-->
-Acesso em: 15 mar. 2018.**
-
-![](media/image21.jpeg){width="2.361111111111111in"
-height="3.5416666666666665in"}
-
-**Léon Vautrin, Hyacinthe-Charles Humbert e Antoine Hermitte, Catedral
-do Sagrado Coração de Jesus, Cantão, China, 1861-88.**
-
-**Fonte:
-\<<https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E5%AE%A4_outlook_2.jpg>\>.
-Acesso em: 15 set. 2018.**
+![Léon Vautrin, Hyacinthe-Charles Humbert e Antoine Hermitte, Catedral do Sagrado Coração de Jesus, Cantão, China, 1861--88. Fonte: <https://commons.wikimedia.org/wiki/File:石室_outlook_2.jpg>. Acesso em: 15 set. 2018](https://upload.wikimedia.org/wikipedia/commons/5/51/石室_outlook_2.jpg){#fig:canton}
 
 Em outras palavras, o século dezenove estabeleceu de fato seu estilo,
 porém um estilo que se valia, sobretudo, da apropriação e reelaboração
 de *sistemas decorativos emprestados a motivos do passado ou exóticos*.
 Um novo estilo associado a um *sistema decorativo próprio* viria no
-entardecer do século, com o *art-nouveau*, como se pode admirar em
+entardecer do século, com o *art nouveau*, como se pode admirar em
 alguns projetos de Victor Dubugras.
 
-![](media/image22.jpeg){width="3.3472222222222223in"
-height="2.4027777777777777in"}
-
-**Victor Dubugras, Projeto para o Teatro Municipal do Rio de Janeiro,
-1904.**
-
-**Fonte: Arquivo Família Mackay Dubugras.**
+![Victor Dubugras, Projeto para o Teatro Municipal do Rio de Janeiro, 1904. Fonte: Arquivo Família Mackay Dubugras](https://hcommons.org/app/uploads/sites/1001411/2022/03/dubugras.jpg){#fig:dubugras}
 
 # De precedentes e de caracteres #
 
@@ -471,7 +414,7 @@ de agora, Donald Drew Egbert:
 > Caráter pode ser definido como o conteúdo de uma obra de arquitetura.
 > Por conteúdo, entende-se aquilo que o edifício é projetado para
 > transmitir ao observador para além da pura estrutura e da pura
-> utilidade física -- ou seja, os valores espirituais, emocionais e
+> utilidade física --- ou seja, os valores espirituais, emocionais e
 > formais que o arquiteto alcança por meio da forma que dá a seu
 > material, os quais podem ser tanto gerais como específicos em suas
 > conotações. Assim, o conteúdo pode ser constituído principalmente pela
@@ -496,7 +439,7 @@ orientação radical adotada por Ledoux para enfatizar tal finalidade
 viria a ser descrita como *architecture parlante*, que podemos traduzir
 sem grande cerimônia por *arquitetura tagarela*. A maneira como ele
 expressava a destinação em seus projetos é de extrema criatividade; ao
-invés de empregar precedentes -- nem mesmo disponíveis no caso de muitos
+invés de empregar precedentes --- nem mesmo disponíveis no caso de muitos
 programas novos --, propunha relações mais imediatas e inventava motivos
 alusivos, como que miméticos do uso previsto. Ainda conforme Egbert:
 
@@ -508,43 +451,19 @@ alusivos, como que miméticos do uso previsto. Ainda conforme Egbert:
 > projetou como a uma ênfase protofuncional no propósito utilitário do
 > edifício (p. 123).[^6]
 
-![](media/image23.jpeg){width="3.3055555555555554in"
-height="1.9305555555555556in"}
-
-**Forge à canons. C.N. Ledoux, *L\'architecture considérée sus le
-rapport de l\'art, des mouers et de la législation*, 1804, Planche
-124.**
-
-**Fonte:
-\<<https://gallica.bnf.fr/ark:/12148/bpt6k1047050b/f7.item.r=claude%20nicolas%20ledoux.zoom>\>.
-Acesso em: 15 set. 2018.**
+![Forge à canons. C.N. Ledoux, *L\'architecture considérée sus le rapport de l\'art, des mouers et de la législation*, 1804, Planche 124. Fonte: <https://gallica.bnf.fr/ark:/12148/bpt6k1047050b/f7.item.r=claude%20nicolas%20ledoux.zoom>. Acesso em: 15 set. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/forge.jpg){#fig:forge}
 
 No projeto das Salinas de Chaux, para a moradia dos responsáveis pelo
 controle das águas fluviais empregou a forma de um tubulão, enquanto que
-para uma \"casa de prazer\", Oikèma, valeu-se de uma planta cujo
+para uma "casa de prazer", *Oikèma*, valeu-se de uma planta cujo
 contorno traça uma evidente figura fálica. Igual tagarelice encontra-se
 em edificações claramente explícitas, como o Moulin Rouge (1889), em
 Paris, ou o Long Island Duck, glorificado por Venturi em *Learning from
 Las Vegas* (1977).
 
-![](media/image24.jpeg){width="3.3055555555555554in"
-height="2.1944444444444446in"}
+![Oikèma. C.N. Ledoux, *L\'architecture considérée sus le rapport de l\'art, des mœurs et de la législation*, 1804, Planche 104. Fonte: <https://gallica.bnf.fr/ark:/12148/bpt6k1047050b/f7.item.r=claude%20nicolas%20ledoux.zoom>. Acesso em: 15 set. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/oikema.jpg){#fig:oikema}
 
-**Oikèma. C.N. Ledoux, *L\'architecture considérée sus le rapport de
-l\'art, des mouers et de la législation*, 1804, Planche 104.**
-
-**Fonte:
-\<<https://gallica.bnf.fr/ark:/12148/bpt6k1047050b/f7.item.r=claude%20nicolas%20ledoux.zoom>\>.
-Acesso em: 15 set. 2018.**
-
-![](media/image25.jpeg){width="2.1666666666666665in"
-height="2.986111111111111in"}
-
-**Édouard-Jean Niermans, Moulin Rouge, Paris, 1889.**
-
-**Fonte:
-\<<https://commons.wikimedia.org/wiki/File:Paris_1914_Moulin_Rouge.jpg>\>.
-Acesso em: 15 set. 2018.**
+![Édouard-Jean Niermans, Moulin Rouge, Paris, 1889. Fonte: <https://commons.wikimedia.org/wiki/File:Paris_1914_Moulin_Rouge.jpg>. Acesso em: 15 set. 2018](https://upload.wikimedia.org/wikipedia/commons/0/08/Paris_1914_Moulin_Rouge.jpg){#fig:moulin}
 
 Mesmo quando a atribuição do caráter é feita por meio de precedentes,
 não se trata de uma escolha fortuita por esta ou aquela paleta
@@ -553,7 +472,7 @@ variados significados que podem ser atribuídos aos diferentes estilos
 para optar por aquele mais adequado a cada situação. Com o advento da
 arquitetura moderna, a opção estilística perdeu em muito sua
 importância, uma vez que a preocupação com o caráter deixou de ser
-primordial. Qualquer que seja o programa -- uma igreja, um aeroporto ou
+primordial. Qualquer que seja o programa --- uma igreja, um aeroporto ou
 uma residência --, o estilo a ser adotado é o moderno. Todas as
 edificações modernas seguem uma mesma linguagem, variando apenas a fase
 modernista em que se encontra a arquitetura ou a tendência a que adere o
@@ -567,7 +486,7 @@ sendo denominado de *arquitetura autoral* ou *arquitetura de
 repertório*.
 
 Aceitando-se, então, que para o Ecletismo a sugestão da destinação de um
-prédio -- dele dizer *o que* abriga -- é no mais das vezes indispensável
+prédio --- dele dizer *o que* abriga --- é no mais das vezes indispensável
 e que ela, destinação, possa ser revelada por meio de precedentes
 adequadamente escolhidos, em qual estilo deve ser projetado um hospital?
 Clássico, neogótico, hindu? Uma das possibilidades óbvias é o recurso a
@@ -576,14 +495,7 @@ misericórdia e as casas de misericórdia são uma instituição identificada
 com a Idade Média. Obedecendo a tradição, temos aquelas de Cuiabá e de
 São Paulo.
 
-![](media/image26.jpeg){width="3.5416666666666665in"
-height="2.263888888888889in"}
-
-**Luigi Pucci, Santa Casa de Misericórdia, São Paulo, 1884.**
-
-**Fonte:
-\<<http://www.santacasasp.org.br/portal/site/quemsomos/historico>\>.
-Acesso em: 15 mar. 2018.**
+![Luigi Pucci, Santa Casa de Misericórdia, São Paulo, 1884. Fonte: <http://www.santacasasp.org.br/portal/site/quemsomos/historico>. Acesso em: 15 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/santacasa.jpg){#fig:santacasa}
 
 Igual raciocínio vale para edifícios educacionais, porque estes estão
 associados ao surgimento das universidades também na Idade Média, como
@@ -596,21 +508,9 @@ estudantes em Yale, em estilo que não se pode escapar de denominar de
 seja o *campus* da Universidade Mackenzie, cujas primeiras instalações
 foram projetadas por arquitetos americanos.
 
-![](media/image27.jpeg){width="1.8333333333333333in"
-height="2.5694444444444446in"}
+![Robert A. M. Stern Architects, Pauli Murray College, Yale, 2009-17. Fonte:<http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges>. Acesso em: 15 abr. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/stern.jpg){#fig:stern}
 
-**Robert A. M. Stern Architects, Pauli Murray College, Yale, 2009-17.**
-
-**Fonte:
-\<[http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges](http://www.architectmagazine.com/design/robert-am-stern-on-the-design-of-the-new-pauli-murray-and-benjamin-franklin-colleges_o?utm_source=newsletter&utm_content=Article&utm_medium=email&utm_campaign=AN_031618%20(1)&he)\>.
-Acesso em: 15 abr. 2018.**
-
-![](media/image28.jpeg){width="3.1527777777777777in" height="1.875in"}
-
-**Edifício Mackenzie, São Paulo, 1894.**
-
-**Fonte: \<<http://up.mackenzie.br/a-universidade/historia/>\>. Acesso
-em: 15 mar. 2018.**
+![Edifício Mackenzie, São Paulo, 1894. Fonte: <http://up.mackenzie.br/a-universidade/historia/>. Acesso em: 15 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/mack.jpg){#fig:mack}
 
 Inúmeros outros edifícios indicam seu uso educacional por esse viés
 estilístico, como a Faculdade de Medicina da Universidade de São Paulo
@@ -621,14 +521,7 @@ até a sua nacionalidade graças à adoção do gótico manuelino,
 incidentalmente qualificativo dado pelo brasileiro Varnhagen na sua
 *Notícia Histórica e Descriptiva do Mosteiro de Belém*, de 1842.
 
-![](media/image29.jpeg){width="2.1666666666666665in"
-height="2.5694444444444446in"}
-
-**Rafael da Silva e Castro. Real Gabinete Português de Leitura, Rio de
-Janeiro, 1880.**
-
-**Fonte: \<<https://upload.wikimedia.org/wikipedia/commons/6/61/>\>.
-Acesso em: 15 mar. 2018.**
+![Rafael da Silva e Castro. Real Gabinete Português de Leitura, Rio de Janeiro, 1880. Fonte: <https://commons.wikimedia.org/wiki/File:Real_Gabinete_Português_de_Leitura_11-18.jpg>. Acesso em: 15 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Real_Gabinete_Português_de_Leitura_11-18.jpg/960px-Real_Gabinete_Português_de_Leitura_11-18.jpg){#fig:gabinete}
 
 A motivação também pode ser religiosa. Em geral, uma congregação
 protestante não vai querer um templo clássico, estilo inexoravelmente
@@ -639,166 +532,85 @@ alguma arquitetura anterior à Renascença, como se vê na Igreja Luterana
 da Santa Cruz (1897), em Valparaíso, Chile, e na Primeira Igreja Batista
 de Pádua, no Rio de Janeiro.
 
-![](media/image30.jpeg){width="1.9722222222222223in"
-height="2.611111111111111in"}
+![Irmãos Bliederhaüser, Igreja Luterana da Santa Cruz, Valparaíso, 1897. Fonte: <https://commons.wikimedia.org/wiki/File:Iglesia_luterana_-Valpo_fRF29.jpg>. Acesso em: 15 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Iglesia_luterana_-Valpo_fRF29.jpg/576px-Iglesia_luterana_-Valpo_fRF29.jpg){#fig:valpo}
 
-**Irmãos Bliederhaüser, Igreja Luterana da Santa Cruz, Valparaíso,
-1897.**
-
-**Fonte:
-\<<https://commons.wikimedia.org/wiki/File:Iglesia_luterana_-Valpo_fRF29.jpg>\>.
-Acesso em: 15 mar. 2018.**
 
 Diante da possibilidade de variar estilos, também vamos encontrar
-templos católicos neorromânicos -- como a Paróquia São Francisco de
-Assis, em Alagoinhas -- e neogóticos -- como a Paróquia do Divino
+templos católicos neorromânicos --- como a Paróquia São Francisco de
+Assis, em Alagoinhas --- e neogóticos --- como a Paróquia do Divino
 Espírito Santo, em Inhambupe, ambas na Bahia. Nesse quesito, destaca-se
 Petrópolis, contando com um exemplar neorromânico e cinco neogóticos (um
 luterano), conforme estudados por Ruth Judice em *Igrejas neogóticas*
 (2000).
 
-![](media/image31.jpeg){width="2.361111111111111in"
-height="1.7638888888888888in"}
+![Paróquia São Francisco de Assis, Alagoinhas, Bahia. Foto: Edson Aulis. Fonte: <http://www.diocesedealagoinhas.com.br/paroquia-sao-francisco-de-assis-1968/>. Acesso em: 16 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/alagoinhas.jpg){#fig:alagoinhas}
 
-**Paróquia São Francisco de Assis, Alagoinhas, Bahia. Foto: Edson
-Aulis.**
-
-**Fonte:
-\<<http://www.diocesedealagoinhas.com.br/paroquia-sao-francisco-de-assis-1968/>\>.
-Acesso em: 16 mar. 2018.**
-
-![](media/image32.jpeg){width="2.361111111111111in"
-height="1.7777777777777777in"}
-
-**Paróquia do Divino Espírito Santo, Inhambupe, Bahia. Foto: Vicente A.
-Queiroz.**
-
-**Fonte:
-\<<http://www.diocesedealagoinhas.com.br/paroquia-divino-espirito-santo/>\>.
-Acesso em: 16 mar. 2018.**
+![Paróquia do Divino Espírito Santo, Inhambupe, Bahia. Foto: Vicente A. Queiroz. Fonte: <http://www.diocesedealagoinhas.com.br/paroquia-divino-espirito-santo/>. Acesso em: 16 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/inhambupe.jpg){#fig:inhambupe}
 
 Ao nos entreter nesse jogo de atribuição de precedentes, por que não
 especular se a Catedral de Peterborough (1118-1237) teria servido de
 inspiração para a Igreja de Nossa Senhora da Saúde, em Cipó, Bahia?
 
-![](media/image33.jpeg){width="1.9722222222222223in"
-height="2.111111111111111in"}
+![Igreja de Nossa Senhora da Saúde, Cipó, Bahia Fonte: <http://ciponaveia.blogspot.com/>. Acesso em: 14 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/cipo.jpg){#fig:cipo}
 
-**Igreja de Nossa Senhora da Saúde, Cipó, Bahia**
-
-**Fonte: \<<http://ciponaveia.blogspot.com/>\>. Acesso em: 14 mar.
-2018.**
-
-![](media/image34.jpeg){width="2.75in" height="1.9583333333333333in"}
-
-**Catedral de Peterborough, Cambridgeshire, 1118-1237.**
-
-**Fonte:
-\<<https://www.victorian-era.co.uk/Britain/Peterborough-Cathedral.html>\>.
-Acesso em: 22 nov. 2018.**
+![Catedral de Peterborough, Cambridgeshire, 1118-1237. Fonte: <https://www.victorian-era.co.uk/Britain/Peterborough-Cathedral.html>. Acesso em: 22 nov. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/peterboro.jpg){#fig:peterboro}
 
 Tanto medievalismo não implica no abandono daquelas soluções mais
-\"modernas\": neorrenascentistas -- como a Catedral de Amparo (c. 1925)
--- e neobarrocas -- como a Catedral de Santo Antônio, em Guaratinguetá.
+"modernas": neorrenascentistas --- como a Catedral de Amparo (c. 1925)
+-- e neobarrocas --- como a Catedral de Santo Antônio, em Guaratinguetá.
 Esta última tem história que se assemelha àquela do Duomo de Milão, indo
 do barroco ao neobarroco; de fundação colonial, sua fachada atual é de
 meados do século dezenove, uma das torres tendo sido completada em 1913.
 
-![](media/image35.jpeg){width="2.1527777777777777in"
-height="2.6944444444444446in"}
+![Amador Cintra do Prado, reforma da Catedral Nossa Senhora do Amparo, Amparo, São Paulo, década de 1920. Fonte:  <https://dicadetrip.com/oquefazer/amparo-sp/>. Acesso em: 22 jun. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/amparo.jpg){#fig:amparo}
 
-**Amador Cintra do Prado, reforma da Catedral Nossa Senhora do Amparo,
-Amparo, São Paulo, década de 1920.**
-
-**Fonte: \< <https://dicadetrip.com/oquefazer/amparo-sp/>\>. Acesso em:
-22 jun. 2018.**
-
-![](media/image36.jpeg){width="2.1527777777777777in" height="2.875in"}
-
-**Igreja Catedral de Santo Antônio, Guaratinguetá, do século dezoito ao
-vinte.**
-
-**Fonte:
-\<<http://www.saopaulo.sp.gov.br/spnoticias/destino-da-semana-guaratingueta-e-cidade-natal-de-frei-galvao/>\>.
-Acesso em: 22 jun. 2018.**
+![Igreja Catedral de Santo Antônio, Guaratinguetá, do século dezoito ao vinte. Fonte: <http://www.saopaulo.sp.gov.br/spnoticias/destino-da-semana-guaratingueta-e-cidade-natal-de-frei-galvao/>. Acesso em: 22 jun. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/guaratin.jpg){#fig:guaratin}
 
 Ainda que por vezes fique difícil entender as intenções na escolha, como
 a católica Catedral de Westminster (1895-1903), em Londres, em evidente
 estilo neobizantino na tradição de Santa Sofia (532-37), em Istambul\...
 
-![](media/image37.jpeg){width="2.1527777777777777in"
-height="2.9027777777777777in"}
-
-**John Francis Bentley, Catedral de Westminster, Londres, 1895-1903.
-Winefride de L\'Hôpital, *Westminster Cathedral and its architect*,
-1919, v. 1, plate III, entre p. 20 e 21.**
-
-**Fonte:
-\<<https://archive.org/details/westminstercathe01lhop/page/n7>\>. Acesso
-em: 19 nov. 2018.**
+![John Francis Bentley, Catedral de Westminster, Londres, 1895-1903. Winefride de L\'Hôpital, *Westminster Cathedral and its architect*, 1919, v. 1, plate III, entre p. 20 e 21. Fonte: <https://archive.org/details/westminstercathe01lhop/page/n7>. Acesso em: 19 nov. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/westminster.jpg){#fig:westminster}
 
 No projeto de uma sede do legislativo, a situação é bem complicada, uma
 vez que envolve decisões tanto de ordem nacional como ideológica. Por
 exigência do concurso em que seria selecionado seu projeto, o novo
-parlamento inglês -- em substituição ao antigo que havia sido destruído
-por um incêndio -- deveria ser em algum estilo gótico de maneira a
+parlamento inglês --- em substituição ao antigo que havia sido destruído
+por um incêndio --- deveria ser em algum estilo gótico de maneira a
 corporificar ideais conservadores condizentes com a monarquia. Havia,
 também, a questão da representação da nacionalidade: não se justificava
 a adoção de algum estilo greco-romano, uma vez que se podia recorrer a
-uma arquitetura eminentemente bretã -- como o gótico perpendicular, por
+uma arquitetura eminentemente bretã --- como o gótico perpendicular, por
 então muito reverenciado. Entretanto, apesar de ter recebido apurados
 motivos decorativos com base em precedentes medievais, o projeto
 vencedor de Charles Barry tem composição e volumetria simétricas,
 típicas do classicismo francês, conforme definitivamente consagrado na
 famosa fachada leste do Palácio do Louvre.
 
-![](media/image38.jpeg){width="4.708333333333333in"
-height="1.7083333333333333in"}
-
-**Charles Barry, Houses of Parliament, Londres, 1836.**
-
-**Fonte:
-\<<https://upload.wikimedia.org/wikipedia/commons/4/42/London_Parliament_2007-1.jpg>\>.
-Acesso em: 16 mar. 2018.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Charles Barry, Houses of Parliament, Londres, 1836. Fonte: <https://commons.wikimedia.org/wiki/File:London_Parliament_2007-1.jpg>. Acesso em: 16 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/4/42/London_Parliament_2007-1.jpg){#fig:barry}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A lógica do processo se repete até em situações opostas. Ainda antes,
 quando do projeto para o congresso dos Estados Unidos em 1793, havia uma
 clara preferência por uma solução clássica, na medida em que a
 referência intencionada era a Roma republicana. Mas brincar com estilos
 do passado é um jogo perigoso. Assim como o parlamento do Reino Unido, o
-Capitólio -- a instituição mais emblemática da democracia americana --
+Capitólio --- a instituição mais emblemática da democracia americana --
 findou por ter entre seus precedentes a tal fachada leste do Louvre,
 talvez a obra mais representativa do nada democrático absolutismo
 francês. Isso sem contar a presença marcante do imperial Panteão de
 Adriano (29 a.C. ou 114 d.C.) e pitadas de Bramante e Palladio.
 
-![](media/image39.jpeg){width="4.708333333333333in" height="1.875in"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![William Thornton, Capitólio, Washington, 1793. Fonte: <https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG>. Acesso em: 15 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Capitol_west_side.JPG){#fig:capitol}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**William Thornton, Capitólio, Washington, 1793.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Claude Perrault, fachada leste do Louvre, Paris, 1667. Fonte: <https://commons.wikimedia.org/wiki/File:La_colonnade_du_Louvre_à_Paris.jpg>. Acesso em: 15 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/0/0d/La_colonnade_du_Louvre_à_Paris.jpg){#fig:louvre}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Fonte:
-\<<https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Capitol_west_side.JPG>\>.
-Acesso em: 15 mar. 2018.**
-
-![](media/image40.jpeg){width="4.708333333333333in"
-height="1.6111111111111112in"}
-
-**Claude Perrault, fachada leste do Louvre, Paris, 1667.**
-
-**Fonte:
-\<<https://upload.wikimedia.org/wikipedia/commons/0/0d/La_colonnade_du_Louvre_%C3%A0_Paris.jpg>\>.
-Acesso em: 15 mar. 2018.**
-
-![](media/image41.jpeg){width="2.1666666666666665in"
-height="2.7916666666666665in"}
-
-**Panteão de Adriano: Giovanni Paolo Pannini, *Interior do Panteão*, c.
-1734.**
-
-**Fonte:
-<https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg>\>.
-<!--_,-->
-Acesso em: 21 nov. 2018.**
+![Panteão de Adriano: Giovanni Paolo Pannini, *Interior do Panteão*, c. 1734. Fonte: <https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg>. Acesso em: 21 nov. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg/589px-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg){#fig:pannini}
 
 Por sua vez, o Capitólio, graças à sua cúpula tão marcante, vai se
 tornar um precedente respeitável por si próprio. Mundo afora, ao
@@ -807,22 +619,9 @@ de um legislativo. Como ocorre no Recife, com a Assembleia Legislativa
 de Pernambuco. E, por que não lembrar, em Brasília, do nosso Congresso
 Nacional?
 
-![](media/image42.jpeg){width="2.763888888888889in"
-height="1.8472222222222223in"}
+![José Tibúrcio Pereira Magalhães, Assembleia Legislativa de Pernambuco, Recife, 1870-75. Fonte: <http://www.alepe.pe.gov.br/museu/?galeria=palacio>. Acesso em: 15 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/alpe.jpg){#fig:alpe}
 
-**José Tibúrcio Pereira Magalhães, Assembleia Legislativa de Pernambuco,
-Recife, 1870-75.**
-
-**Fonte: \<<http://www.alepe.pe.gov.br/museu/?galeria=palacio>\>. Acesso
-em: 15 mar. 2018.**
-
-![](media/image43.jpeg){width="2.763888888888889in"
-height="2.0694444444444446in"}
-
-**Oscar Niemeyer, Congresso Nacional, Brasília, 1959. Foto: André
-Corrêa.**
-
-**Fonte: \<http://www.ebc.com.br/senado\>. Acesso em: 22 nov. 2018.**
+![Oscar Niemeyer, Congresso Nacional, Brasília, 1959. Foto: André Corrêa. Fonte: <http://www.ebc.com.br/senado>. Acesso em: 22 nov. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/senado.jpg){#fig:senado}
 
 Uma boa opção para se fugir a tais gafes na representação do poder
 político é, simplesmente, inventar um \"estilo nacional\" a ser aplicado
@@ -835,28 +634,16 @@ de 1878, em Paris, o Teatro Nacional da Finlândia (1902), em Helsinki, e
 a Prefeitura de Estocolmo (1911-23), local famoso pela entrega do Prêmio
 Nobel.
 
-![](media/image44.jpeg){width="3.1527777777777777in"
-height="2.2222222222222223in"}
+![Ivan Ropet, Pavilhão Russo Fonte: <http://www.worldsfaircommunity.org/topic/11521-russian-participation-in-expo-1878/>. Acesso em: 19 nov. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/ropet.jpg){#fig:ropet}
 
-**Ivan Ropet, Pavilhão Russo**
-
-**Fonte:
-\<<http://www.worldsfaircommunity.org/topic/11521-russian-participation-in-expo-1878/>\>.
-Acesso em: 19 nov. 2018.**
-
-![](media/image45.jpeg){width="3.9444444444444446in"
-height="1.9722222222222223in"}
-
-**Ragnar Östberg, Prefeitura de Estocolmo, 1911-23.**
-
-**Fonte:
-\<<https://www.visitstockholm.com/see--do/attractions/the-city-hall/>\>.
-Acesso em: 19 nov. 2018.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Ragnar Östberg, Prefeitura de Estocolmo, 1911-23. Fonte: <https://www.visitstockholm.com/see--do/attractions/the-city-hall/>. Acesso em: 19 nov. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/ostberg.jpg){#fig:ostberg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Romântico e sublime: pitoresco #
 
 A estética romântica do sublime também pautaria decisões arquitetônicas,
-como o gosto pelo pitoresco -- quer dizer, por composições paisagísticas
+como o gosto pelo pitoresco --- quer dizer, por composições paisagísticas
 ou edilícias aparentemente desprovidas de artificialismos ou de
 convenções formais, dispensando com a exigência de simetria em planta
 e/ou fachada. Como que frutos do acumulo ao acaso de práticas sem
@@ -918,18 +705,13 @@ Retomemos o fio. Gostado ou desprazendo, o pitoresco se revelava em
 edificações fantasiosas ou construções novas com aparência decrépita, em
 geral mais ornamentais do que utilitárias, em uma tradição que remonta
 ao maneirismo. Muito apreciadas no paisagismo de jardins de grandes
-propriedades -- sejam da nobreza, sejam dos novos ricos do
+propriedades --- sejam da nobreza, sejam dos novos ricos do
 industrialismo --, as chamadas *fabriques de jardin* ou *folies* também
 encantam parques públicos. Ecoando tal sensibilidade, no século vinte
 foram reinterpretadas por Bernard Tschumi nas vinte e seis estruturas
 metálicas concebidas para o Parque da Villette, em Paris.
 
-![](media/image46.jpeg){width="2.1666666666666665in"
-height="2.2777777777777777in"}
-
-**Bernard Tschumi, Folies du Parc de la Villette, Paris, 1983.**
-
-**Fonte: \<<https://lavillette.com/>\>. Acesso em: 18 mar. 2018.**
+![Bernard Tschumi, Folies du Parc de la Villette, Paris, 1983. Fonte: <https://lavillette.com/>. Acesso em: 18 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/villette.jpg){#fig:villette}
 
 Entre nós, talvez Belém seja a cidade mais bem aquinhoada com *folies*.
 Em *Largos, coretos e praças de Belém* (2009), Elizabeth Nelo Soares
@@ -937,22 +719,9 @@ relaciona oitos coretos distribuídos em diferentes logradouros, além de
 uma \"torre medieval em ruínas\" (atenção, desatentos, é *fake*) e um
 pequeno pavilhão, o Bar do Parque.
 
-![](media/image47.jpeg){width="2.763888888888889in"
-height="1.7777777777777777in"}
+![Pavilhão 1.º de Dezembro, Praça Batista Campos, Belém, 1904. Fonte: <https://fauufpa.org/2012/03/12/curiosidades-do-patrimonio-publico-de-belem/>. Acesso em: 28 out. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/belem.jpg){#fig:belem}
 
-**Pavilhão 1º de Dezembro, Praça Batista Campos, Belém, 1904.**
-
-**Fonte:
-\<<https://fauufpa.org/2012/03/12/curiosidades-do-patrimonio-publico-de-belem/>\>.
-Acesso em: 28 out. 2018.**
-
-![](media/image48.jpeg){width="2.763888888888889in"
-height="2.0833333333333335in"}
-
-**Castelinho, Praça Batista Campos, Belém. Foto: Mara Hermes.**
-
-**Fonte: \<<http://feriadopessoal.com/2009/06/praca-batista-campos/>\>.
-Acesso em: 28 out. 2018.**
+![Castelinho, Praça Batista Campos, Belém. Foto: Mara Hermes. Fonte: <http://feriadopessoal.com/2009/06/praca-batista-campos/>. Acesso em: 28 out. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/castelinho.jpg){#fig:castelinho}
 
 Outra dimensão do viés romântico está na associação do exotismo a certos
 programas mundanos. Dado seu caráter sugestivo de entretenimento, os
@@ -964,14 +733,7 @@ estilos orientais diversos e, em seu interior, cada cômodo foi decorado
 em um estilo em conformidade com seu uso, podendo bem ser apontado como
 precursor dos parques temáticos, como a Disneylândia.
 
-![](media/image49.jpeg){width="3.2777777777777777in"
-height="2.0694444444444446in"}
-
-**John Nash, Royal Pavilion, Brighton, 1815-22.**
-
-**Fonte: John Nash, *The Royal Pavilion at Brighton*, 1826.
-\<<http://brightonmuseums.org.uk/royalpavilion/history/>\>. Acesso em:
-15 mar. 2018.**
+![John Nash, Royal Pavilion, Brighton, 1815-22. Fonte: John Nash, *The Royal Pavilion at Brighton*, 1826. <http://brightonmuseums.org.uk/royalpavilion/history/>. Acesso em: 15 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/brighton.jpg){#fig:brighton}
 
 Renovando-se no século vinte na arquitetura dos cinemas, as salas de
 projeção vão oferecer uma boa ocasião para exercícios de imaginação
@@ -980,24 +742,12 @@ era entregue o Nobel do *showbiz*, o Oscar, ou o circunspecto Cine
 Marrocos (1947), em São Paulo, por muitos anos ocupado por moradores
 sem-teto.
 
-![](media/image50.jpeg){width="3.5416666666666665in"
-height="2.5277777777777777in"}
+![Meyer & Holler, Chinese Theatre, Hollywood, 1926. Fonte: <https://www.picquery.com/c/chinesetheatre_YAIx%7c6_JWUpDXDly8HTA44D5v_2Rq8TPa462poMWYIM/>. Acesso em: 16 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/hollywood.jpg){#fig:hollywood}
 
-**Meyer & Holler, Chinese Theatre, Hollywood, 1926.**
-
-**Fonte:
-\<<https://www.picquery.com/c/chinesetheatre_YAIx%7c6*JWUpDXDly8HTA44D5v*2Rq8TPa462poMWYIM/>\>.
-Acesso em: 16 mar. 2018.**
-
-![](media/image51.jpeg){width="2.361111111111111in"
-height="3.4166666666666665in"}
-
-**João Bernardes Ribeiro, Cine Marrocos, São Paulo, 1947.**
-
-**Fonte: *Acrópole*, n° 108, p. 309, abr. 1947.**
+![João Bernardes Ribeiro, Cine Marrocos, São Paulo, 1947. Fonte: *Acrópole*, n.º 108, p. 309, abr. 1947](https://hcommons.org/app/uploads/sites/1001411/2022/03/marrocos.jpg){#fig:marrocos}
 
 Por tudo isso, não se pode esquecer que o processo de projeto do
-arquiteto eclético é -- ao menos em aparência -- diferente daquele
+arquiteto eclético é --- ao menos em aparência --- diferente daquele
 seguido por um modernista. Ou seja, a abundância de estilos associada ao
 Ecletismo não é gratuita. Ela não era entendida como oportunidade para
 uma transação aleatória a partir de uma gama de elementos decorativos,
@@ -1012,17 +762,10 @@ desenvolvimento de um estilo do passado*. É isso que nos autoriza
 reputar a Sagrada Família, de Gaudi, uma obra neomedieval, exemplarmente
 eclética.
 
-![](media/image52.jpeg){width="3.4583333333333335in"
-height="2.263888888888889in"}
+![Antoni Gaudi, Sagrada Família, Barcelona, 1882 em diante. Fonte: <http://www.playbuzz.com/jelenak10/14-famosas-construcciones-vistas-desde-otro-ngulo>. Acesso em: 16 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/gaudi.jpg){#fig:gaudi}
 
-**Antoni Gaudi, Sagrada Família, Barcelona, 1882 em diante.**
-
-**Fonte:
-\<<http://www.playbuzz.com/jelenak10/14-famosas-construcciones-vistas-desde-otro-ngulo>\>.
-Acesso em: 16 mar. 2018.**
-
-Porém não nos autoriza a inclusão da arquitetura neocolonial -- tanto do
-Brasil, como de outros países americanos -- nesse mesmo rótulo, algo
+Porém não nos autoriza a inclusão da arquitetura neocolonial --- tanto do
+Brasil, como de outros países americanos --- nesse mesmo rótulo, algo
 problemática e merecedora de considerações à parte da presente análise.
 Além da valorização de precedentes nacionais próprios, uma justificativa
 para o chamado Movimento Tradicionalista, conforme defendido por seus
@@ -1038,51 +781,21 @@ de Oscar Niemeyer; na residência própria de Vilanova Artigas (1949); e
 no Teatro de Marechal Hermes (1950), de Affonso Eduardo Reidy. Ou no
 Posto de Higiene, de Cipó, na Bahia.
 
-![](media/image53.jpeg){width="2.5555555555555554in"
-height="1.9027777777777777in"}
+![Le Corbusier, Casa Errazuris, Chile, 1930. Fonte: Le Corbusier, *Œuvre complète, 1929-1934*, 1935, p. 52](https://hcommons.org/app/uploads/sites/1001411/2022/03/errazuris.jpg){#fig:errazuris}
 
-**Le Corbusier, Casa Errazuris, Chile, 1930.**
+![Oscar Niemeyer, Yatch Club da Pampulha, Belo Horizonte, 1943-50. Foto: Leonardo Finotti, 2008. Fonte: <http://www.leonardofinotti.com/>. Acesso em: 16 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/pampulha.jpg){#fig:pampulha}
 
-**Fonte: Le Corbusier, *Œuvre complète, 1929-1934*, 1935, p. 52.**
-
-![](media/image54.jpeg){width="3.3333333333333335in"
-height="1.7083333333333333in"}
-
-**Oscar Niemeyer, Yatch Club da Pampulha, Belo Horizonte, 1943-50. Foto:
-Leonardo Finotti, 2008.**
-
-**Fonte: \<<http://www.leonardofinotti.com/>\>. Acesso em: 16 mar.
-2018.**
-
-![](media/image55.jpeg){width="2.75in" height="1.6666666666666667in"}
-
-**Posto de Higiene, Cipó, Bahia.**
-
-**Fonte:
-\<<https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=428568&view=detalhes>\>.
-Acesso em: 16 mar. 2018.**
+![Posto de Higiene, Cipó, Bahia. Fonte: <https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=428568&view=detalhes>. Acesso em: 16 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/higiene.jpg){#fig:higiene}
 
 Ou o Castelo de Marly, de Luiz XIV, por alguns considerado o precedente
 no qual Lucio Costa se inspirou para a composição da Esplanada dos
 Ministérios.
 
-![](media/image56.jpeg){width="2.236111111111111in"
-height="2.9583333333333335in"}
-![](media/image57.jpeg){width="1.9583333333333333in"
-height="2.9583333333333335in"}
+![Jules Hardouin-Mansart e Robert de Cotte, Château de Marly, Marly-le-Roi, 1679-84. Fonte: Óleo de Pierre-Denis Martin, 1724, <https://commons.wikimedia.org/wiki/File:Marly_1724.jpg>. Acesso em: 16 mar. 2018](https://upload.wikimedia.org/wikipedia/commons/0/0e/Marly_1724.jpg){#fig:}
 
-**Jules Hardouin-Mansart e Robert de Cotte, Château de Marly,
-Marly-le-Roi, 1679-84.**
+![Lucio Costa, Esplanada dos Ministérios, Brasília, 1957. Foto de Joana França, 2010](https://hcommons.org/app/uploads/sites/1001411/2022/03/esplanada.jpg){#fig:esplanada}
 
-**Fonte: Óleo de Pierre-Denis Martin, 1724,
-\<<https://upload.wikimedia.org/wikipedia/commons/0/0e/Marly_1724.jpg>\>.
-Acesso em: 16 mar. 2018.**
-
-**Lucio Costa, Esplanada dos Ministérios, Brasília, 1957.**
-
-**Foto de Joana França, 2010.**
-
-# Rappel à l\'ordre #
+# Rappel à l'ordre #
 
 A apreciação negativa do Ecletismo, conforme diagnosticada por
 Summerson, iria se estender para além do seu tempo, porém
@@ -1104,14 +817,7 @@ perda de sua originalidade pessoal. Ninguém menos do que Picasso sofreu
 a influência dessa postulação, como se vê em sua fase neoclássica,
 quando executou algumas de suas mais admiradas obras.
 
-![](media/image58.jpeg){width="2.1666666666666665in"
-height="3.1527777777777777in"}
-
-**Pablo Picasso, *Portrait d\'Olga dans un fauteuil*, 1917-18.**
-
-**Fonte:
-\<https://www.1000museums.com/art_works/pablo-picasso-portrait-d-olga-dans-un-fauteuil-portrait-of-olga-in-an-armchair\>.
-Acesso em: 17 mar. 2018.**
+![Pablo Picasso, *Portrait d'Olga dans un fauteuil*, 1917-18. Fonte: <https://www.1000museums.com/art_works/pablo-picasso-portrait-d-olga-dans-un-fauteuil-portrait-of-olga-in-an-armchair>. Acesso em: 17 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/picasso.jpg){#fig:picasso}
 
 Argumentações como as de Cocteau talvez não tivessem mais como ressoar
 junto a seus contemporâneos. Àquela altura o *historicismo* já estava
@@ -1123,14 +829,7 @@ já estavam acostumados com a luz elétrica, com o telégrafo e o telefone,
 agora se acostumando com aviões e automóveis\... Recursos e equipamentos
 banais, cotidianos, como satélites e a internet hoje em dia.
 
-![](media/image59.jpeg){width="3.3472222222222223in"
-height="2.7222222222222223in"}
-
-**Fiação de telefone e telégrafo na Broadway, Nova York, c. 1885.**
-
-**Fonte:
-\<<https://commons.wikimedia.org/wiki/File:Broadway-1885-APL.jpeg>\>.
-Acesso em: 17 out. 2018**
+![Fiação de telefone e telégrafo na Broadway, Nova York, c. 1885. Fonte: <https://commons.wikimedia.org/wiki/File:Broadway-1885-APL.jpeg>. Acesso em: 17 out. 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Broadway-1885-APL.jpeg/944px-Broadway-1885-APL.jpeg){#fig:broadway}
 
 Valendo-se de mais uma citação de Schorske:
 
@@ -1146,7 +845,7 @@ Valendo-se de mais uma citação de Schorske:
 > os Estados Unidos do século vinte aprenderam a pensar sem história. A
 > própria palavra \"modernismo\" passou a distinguir nossas vidas e
 > tempos do que havia ocorrido antes, da história como um todo, como
-> tal. Arquitetura moderna, música moderna, ciência moderna -- todas se
+> tal. Arquitetura moderna, música moderna, ciência moderna --- todas se
 > definindo não tanto fora do passado, de fato nem em oposição ao
 > passado, mas separadas dele em um espaço cultural novo e autônomo. A
 > mente moderna se tornou indiferente à história, pois a história,
@@ -1160,8 +859,8 @@ Valendo-se de mais uma citação de Schorske:
 > necessarily taken from the Victorians what they themselves widely
 > enjoyed. Paintings at the Royal Academy---new paintings---had to be
 > roped off from eager crowds.
-
-Geoffrey Hemstedt, The novel, 1978.
+>
+> <cite>Geoffrey Hemstedt, The novel, 1978</cite>
 
 Bem diferente do que se passara com o Ecletismo, as narrativas sobre a
 arquitetura moderna vão lhe ser extremamente favoráveis, aura envolvendo
@@ -1170,22 +869,22 @@ da década de 1930 em diante em uma série de manuais, hoje reverenciados
 como *canônicos*, irá convalidar uma produção arquitetônica apregoada,
 precisamente, como despida das extravagâncias do Ecletismo e sua
 subserviência ao passado. Para tanto, apropriando-se com grande
-habilidade do adjetivo *moderno* -- termo prenhe de conotações
+habilidade do adjetivo *moderno* --- termo prenhe de conotações
 favoráveis desde a Renascença, em contraponto ao por então
 desprestigiado e abusado *eclético*.
 
 O novo estilo representaria a superação das limitações e deficiências --
-reais ou não -- diagnosticadas pela crítica na arquitetura de fins do
+reais ou não --- diagnosticadas pela crítica na arquitetura de fins do
 século dezenove até a 1ª Grande Guerra. Algo semelhante ao *rappel à
 l\'ordre* ao inverso, uma vez que se oferecia como superação da
 promiscuidade estilística atribuída ao historicismo. Tão forte é o
 efeito de teoria dessa sacralização do modernismo, dessa afirmação da
 sua inerente qualidade, que a arquitetura moderna foi e continua a ser
-apresentada como intrinsecamente correta -- ao menos nos meios
+apresentada como intrinsecamente correta --- ao menos nos meios
 especializados, verdadeiros feudos de seus devotos.
 
-A *historiografia da arquitetura* -- ou seja, aquilo que se escreve
-sobre arquitetura -- é muito diferente da *história da arquitetura*,
+A *historiografia da arquitetura* --- ou seja, aquilo que se escreve
+sobre arquitetura --- é muito diferente da *história da arquitetura*,
 esta imensuravelmente ampla e impossível de ser abrangida em sua
 integralidade, em sua totalidade. Esse descompasso inescapável faz com
 que na historiografia possam deixar de ser contemplados obras e autores
@@ -1197,7 +896,7 @@ Constituído um paradigma legitimador do modernismo que o consagrou como
 progressista, qualquer arquitetura que não aquiesce a seus princípios
 passa a ser rotulada de retrógrada, desprovida de conteúdo social,
 quando não reacionária e antissocial. Sendo indigna do registro
-histórico, pode ser sumariamente excluída da narrativa -- na realidade,
+histórico, pode ser sumariamente excluída da narrativa --- na realidade,
 uma camisa-de-força estética travestida de ideologia --, numa definitiva
 vitória das vanguardas no embate *futurismo* vs. *passadismo*. Algo como
 um desfecho para a famosa *querelle des anciens et des modernes* que
@@ -1206,7 +905,7 @@ se dá a formação dos estilos, opondo-se aqueles que defendiam a inovação
 àqueles que tinham o passado como padrão de excelência.
 
 Contudo, apesar da adesão exponencial à arquitetura moderna por parte de
-praticantes e críticos -- como demonstra o alcance bastante limitado da
+praticantes e críticos --- como demonstra o alcance bastante limitado da
 reação antimodernista --, ela não obteve igual irrestrita aceitação por
 parte de seus usuários. A arquitetura moderna nunca foi objeto de grande
 entusiasmo popular, como bem atestam os roteiros de passeios em Paris,
@@ -1220,32 +919,13 @@ claro, a Notre-Dame, a Sainte-Chapelle e o Louvre\... Ninguém quer
 visitar a pretensiosa arquitetura da Era Mitterrand, como a Ópera da
 Bastilha ou a Biblioteca Nacional, todos fogem.
 
-![](media/image60.jpeg){width="3.5416666666666665in"
-height="1.9444444444444444in"}
+![Frank Gehry, Fundação Louis Vuitton, Paris, 2014. Fonte: <http://magazine.bellesdemeures.com/luxe/art-de-vivre/les-icones-de-l-art-moderne-la-fondation-louis-vuitton-jusqu-au-20-fevrier-2017-article-14240.html>. Acesso em: 18 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/gehry.jpg){#fig:gehry}
 
-**Frank Gehry, Fundação Louis Vuitton, Paris, 2014.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Calendrier Paris Monuments 2012: Torre Eiffel, Orsay, Ópera, Louvre, Cidade das Ciências, Sacré-Coeur, Pompidou, Mundo Árabe, Notre-Dame, Arco do Triunfo. Fonte: acervo da autora.](https://hcommons.org/app/uploads/sites/1001411/2022/03/calendrier.jpg){#fig:calendrier}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Fonte:
-\<<http://magazine.bellesdemeures.com/luxe/art-de-vivre/les-icones-de-l-art-moderne-la-fondation-louis-vuitton-jusqu-au-20-fevrier-2017-article-14240.html>\>.
-Acesso em: 18 mar. 2018.**
-
-![](media/image61.jpeg){width="5.902777777777778in"
-height="1.1805555555555556in"}
-
-**Calendrier Paris Monuments 2012: Torre Eiffel, Orsay, Ópera, Louvre,
-Cidade das Ciências, Sacré-Coeur, Pompidou, Mundo Árabe, Notre-Dame,
-Arco do Triunfo.**
-
-**Fonte: acervo da autora.**
-
-![](media/image62.jpeg){width="3.3472222222222223in"
-height="2.111111111111111in"}
-
-**Dominique Perrault, Bibliothèque nationale de France, Paris, 1989.**
-
-**Fonte:
-\<<http://www.triplancar.com/en/lieu/bibliotheque-nationale-france>\>.
-Acesso em: 17 mar. 2018.**
+![Dominique Perrault, Bibliothèque nationale de France, Paris, 1989. Fonte: <http://www.triplancar.com/en/lieu/bibliotheque-nationale-france>. Acesso em: 17 mar. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/bnf.jpg){#fig:bnf}
 
 Até para torná-las mais palatáveis, muitas vezes obras modernas são
 apresentadas complementadas por elementos \"de estilo\", em uma
@@ -1256,19 +936,9 @@ original. Duas propagandas retiradas da revista *Acrópole* mostram como
 na década de 1950 a assimilação do novo era facilitada pela incorporação
 do tradicional ou do exótico. Belos exemplos de\... Ecletismo.
 
-![](media/image63.jpeg){width="2.638888888888889in"
-height="2.3472222222222223in"}
+![Dinucci Decoração de Interiores, Residência Nagib Rizkallah Jorge. Fonte: *Acrópole*, n° 165, p. 331, jan. 1952.](https://hcommons.org/app/uploads/sites/1001411/2022/03/dinucci.jpg){#fig:dinucci}
 
-**Dinucci Decoração de Interiores, Residência Nagib Rizkallah Jorge.**
-
-**Fonte: *Acrópole*, n° 165, p. 331, jan. 1952.**
-
-![](media/image64.jpeg){width="2.638888888888889in"
-height="3.2222222222222223in"}
-
-**Invictus, Rádio-Fonógrafo-Televião Coromandel.**
-
-**Fonte: *Acrópole*, n° 165, p. 327, jan. 1952.**
+![Invictus, Rádio-Fonógrafo-Televião Coromandel. Fonte: *Acrópole*, n° 165, p. 327, jan. 1952.](https://hcommons.org/app/uploads/sites/1001411/2022/03/invictus.jpg){#fig:invictus}
 
 É devido a constatações dessa ordem que foi tentada a presente análise,
 feita não no intento de contrapor arquiteturas ou estabelecer
@@ -1282,9 +952,9 @@ artística. A sua continuada asseveração corre o risco de redundar em um
 panorama parcial, focado em uma faixa reduzida de tendências,
 personalidades e obras e no consequente estreitamento da abrangência das
 pesquisas. Enquanto que a admissão de toda ordem de determinantes
-políticos, econômicos, culturais, técnicos, estéticos -- sem impugnações
+políticos, econômicos, culturais, técnicos, estéticos --- sem impugnações
 arbitrárias com base no gosto do historiógrafo ou de um determinado
-*milieu* profissional -- poderia contribuir para a construção de uma
+*milieu* profissional --- poderia contribuir para a construção de uma
 narrativa que se valha de outra ordem de critérios de reconhecimento.
 Assim inspirando estudos sobre temas pouco explorados e trazendo novas
 perspectivas de interpretação. Para não incorremos no mesmo erro de
@@ -1292,23 +962,9 @@ apreciação da maravilhosa arquitetura do longo século dezenove, de que
 tão poucos exemplares foram preservados entre nós. Tal qual a destruição
 de Sete Quedas\...
 
-![](media/image65.jpeg){width="3.4166666666666665in"
-height="1.8472222222222223in"}
+![Salto de Sete Quedas, o que restou após 13 de outubro 1982. Fonte: <https://www.oparana.com.br/noticia/tragedia-nas-sete-quedas-completa-36-anos-hoje>. Acesso em: 15 out. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/salto.jpg){#fig:salto}
 
-**Salto de Sete Quedas, o que restou após 13 de outubro 1982.**
-
-**Fonte:
-\<<https://www.oparana.com.br/noticia/tragedia-nas-sete-quedas-completa-36-anos-hoje>\>.
-Acesso em: 15 out. 2018.**
-
-![](media/image66.jpeg){width="3.4305555555555554in"
-height="1.9305555555555556in"}
-
-**Sete Quedas, como até então.**
-
-**Fonte:
-\<<https://fatosfotoseregistros.wordpress.com/2017/11/07/fim-sete-quedas/>\>.
-Acesso em: 15 out. 2018.**
+![Sete Quedas, como até então. Fonte: <https://fatosfotoseregistros.wordpress.com/2017/11/07/fim-sete-quedas/>. Acesso em: 15 out. 2018](https://hcommons.org/app/uploads/sites/1001411/2022/03/salto-antigo.jpg){#fig:salto-antigo}
 
 # Referências #
 
