@@ -7,7 +7,8 @@ locale                   : "pt-BR"
 title                    : "Neoárabe"
 title_separator          : "-"
 subtitle                 : "da península Ibérica à América latina"
-name                     : "Pedro P. Palazzo e Carolina Pescatori (orgs.)"
+name                     : "Editora FAU–UnB"
+isbn                     : 
 description: >- 
   A composição interdisciplinar e interinstitucional
   deste livro explora a tessitura de influências que
@@ -16,7 +17,7 @@ description: >-
   culturais e pela ressignificação de argumentos
   históricos assim como de identidades comunitárias.
 baseurl                  : ""
-url                      : "http://neoarabe.com.br"
+url                      : "https://neoarabe.com.br"
 repository               : dmcpatrimonio/neoarabe
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : '/assets/230px-Azulejo_decorado_con_estrellas_Antonio_Vadillo_Plata.jpg'
