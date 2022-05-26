@@ -5,8 +5,8 @@ VPATH = _lib
 vpath %.yaml .:_spec:_data
 vpath %.bib .:bibliography
 
-DOCS  = $(wildcard docs/*.md)
-PAGES = $(patsubst docs/%.md,_pages/%.md,$(DOCS))
+DOCS  = $(wildcard _docs/*.md)
+PAGES = $(patsubst _docs/%.md,_pages/%.md,$(DOCS))
 
 # Branch-specific targets and recipes {{{1
 # ===================================
@@ -29,12 +29,12 @@ _pages/%.md : docs/%.md biblio.yaml html.yaml
 
 %.pdf : %.md biblio.bib pdf.yaml
 	@docker run --rm -v "`pwd`:/data" --user `id -u`:`id -g` \
-		pandoc/latex:2.17.1.1 $< -d spec/pdf.yaml -o $@
+		pandoc/latex:2.18 $< -d spec/pdf.yaml -o $@
 	@echo "$@"
 
 %.md : docx2md.yaml %.docx
 	@docker run --user "`id -u`:`id -g`" \
-		-v "`pwd`:/data" pandoc/core:2.14.2 \
+		-v "`pwd`:/data" pandoc/core:2.18 \
 		-o $@ -d $^
 	@echo "$@"
 
