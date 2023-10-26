@@ -287,7 +287,7 @@ apreciados como *elementos constitutivos de um estilo próprio*. E,
 tampouco, a ampliação do repertório material e técnico ou os
 excepcionais feitos estruturais. Nada disso parece ter sensibilizado os
 antagonistas do Ecletismo, que olhavam para essa arquitetura e apenas
-constatam que é classicante, medievalizante ou extravagante\...
+constatam que é classicizante, medievalizante ou extravagante\...
 Restringem-se a uma crítica da *linguagem estilística* dos ornamentos.
 Contudo, nada no passado equivale a essas destinações e aos recursos
 construtivos que demandam, disponíveis graças à expansão da siderurgia e
