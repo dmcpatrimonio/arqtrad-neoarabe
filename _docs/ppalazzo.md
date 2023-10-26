@@ -1,5 +1,5 @@
 ---
-title: "Reminiscências árabes na arquitetura luso-brasileira"
+title: "Reminiscências mudéjares na arquitetura luso-brasileira anterior ao ecletismo"
 author: Pedro P. Palazzo
 keywords: [História da Arquitetura, Regionalismo, Neoárabe]
 permalink: /ppalazzo/
@@ -81,10 +81,7 @@ possível reconstituir um padrão de reparcelamento do solo
 com lotes compactos, afeito à construção de moradas
 introvertidas e dotadas de pátio central.
 
-![Perímetro da cidade romana de Évora evidenciando a
-sedimentação do traçado romano. Editado pelo autor com base
-em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
+![Perímetro da cidade romana de Évora evidenciando a sedimentação do traçado romano. Editado pelo autor com base em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
 
 O sistema de hierarquia viária e parcelamento do solo
 característico da arabização cultural e política da
@@ -346,9 +343,7 @@ Esta adequação permaneceu ainda mais evidente na casa de
 morada urbana atestada no Brasil desde o período colonial
 até a segunda metade do século XIX.
 
-![Casa dos crivos ou das gelosias, Braga, século XVII. Foto:
-Direção-Geral do Património Cultural [@dgpc:casa]
-](http://www.patrimoniocultural.gov.pt/static/data/cache/f5/d0/f5d048c59ea49291cd706781c9ba297d.jpg){#fig:crivos}
+![Casa dos crivos ou das gelosias, Braga, século XVII. Foto: Direção-Geral do Património Cultural [@dgpc:casa]](http://www.patrimoniocultural.gov.pt/static/data/cache/f5/d0/f5d048c59ea49291cd706781c9ba297d.jpg){#fig:crivos}
 
 De fato, a baixa densidade da maioria dos núcleos urbanos de
 origem portuguesa no Brasil, bem como seu caráter de
@@ -391,7 +386,7 @@ que ele designava como "salle à manger" (sala de jantar)
 ocupava a mesma posição espacial e funcional que a varanda
 [@debret:1839voyage3, p. 214].
 
-![Jean-Baptiste Debret. Descanso na varanda após o jantar. Litografia. New York Public Library [@debret:1835voyage2, pl. 8]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg/507px-La_diner_-_Les_delassemens_d´une_aprés_diner,_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:diner}
+![Jean-Baptiste Debret. Descanso na varanda após o jantar. Litografia. New York Public Library [@debret:1835voyage2, pl. 8]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d´une_aprés_diner,\_da_Coleção_Brasiliana_Iconográfica.jpg/507px-La_diner_-_Les_delassemens_d´une_aprés_diner,\_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:diner}
 
 ------------------------------------------------------------------
 
@@ -499,8 +494,8 @@ peculiar das *family rooms* norte-americanas.
 
 # Mourisco, moçárabe ou mudéjar? #
 
-O estudo das reminiscências islâmicas na morfologia do
-espaço urbano e doméstico luso-brasileiro caracteriza um
+As reminiscências islâmicas na morfologia do
+espaço urbano e doméstico luso-brasileiro caracterizam um
 processo de emersão, relativamente recente, de um
 conhecimento arqueológico e teórico especializado.
 Em contrapartida, a presença de elementos arabizados na
@@ -549,9 +544,7 @@ reformados por ordem do rei no primeiro Quinhentos, além da
 profusão de azulejaria sevilhana ou de suas imitações
 nacionais por esse período.
 
-![Galeria das Damas, paço de D. Manuel, Évora, primeira
-década do século XVI. Foto do autor 
-](https://live.staticflickr.com/1791/43372117094_3588c1d993_c_d.jpg){#fig:damas}
+![Galeria das Damas, paço de D. Manuel, Évora, primeira década do século XVI. Foto do autor](https://live.staticflickr.com/1791/43372117094_3588c1d993_c_d.jpg){#fig:damas}
 
 Tal interpretação, levantada a partir de meados do século
 XIX, fazia porém do "mudejarismo" português no seu todo um
@@ -712,9 +705,7 @@ do século IX. Tal leitura reforça o papel deste elemento
 como marcador intencional de identidade cultural.
 [@almeidafernandes:2017velhos24, p. 45--47].
 
-![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016](https://commons.wikimedia.org/wiki/File:Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg/1280px-Lourosa_(Oliveira_do_Hospital)_São_Pedro_120.jpg){#fig:lourosa}
-
-<!--_-->
+![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016](https://commons.wikimedia.org/wiki/File:Lourosa_(Oliveira_do_Hospital)\_São_Pedro_120.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lourosa_(Oliveira_do_Hospital)\_São_Pedro_120.jpg/1280px-Lourosa_(Oliveira_do_Hospital)\_São_Pedro_120.jpg){#fig:lourosa}
 
 # A contaminação *mourisca* do neoclassicismo no Brasil imperial #
 
@@ -781,11 +772,7 @@ mas que era sancionada também pelo gosto germânico da época
 [@piacentini:1996dove], fato crucial na hierarquia crítica
 da primeira metade do século XX.
 
-![Açoteias no bairro do Consórcio português da conserva do peixe,
-arquiteto Eugénio Correia, Olhão
-(Algarve), 1935--1938  
-Foto: Estúdio Horácio Novais. Acervo FCG Biblioteca de Arte
-](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bairro_do_Consórcio_Português_de_Conservas_de_Peixe,_1938.jpg/749px-Bairro_do_Consórcio_Português_de_Conservas_de_Peixe,_1938.jpg){#fig:acoteia}
+![Açoteias no bairro do Consórcio português da conserva do peixe, arquiteto Eugénio Correia, Olhão (Algarve), 1935--1938. Foto: Estúdio Horácio Novais. Acervo FCG Biblioteca de Arte](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bairro_do_Consórcio_Português_de_Conservas_de_Peixe,\_1938.jpg/749px-Bairro_do_Consórcio_Português_de_Conservas_de_Peixe,\_1938.jpg){#fig:acoteia}
 
 À semelhança da expansão ultramarina do reino de Portugal,
 o mudejarismo erudito e a arabização vernácula da cultura
@@ -853,9 +840,7 @@ e tributário do gosto português, fortemente mourisco" (@fig:debret-mourisco).
 moderne, mais encore bizarre, et tenant du goût portugais,
 lourdement moresque." [@debret:1839voyage3, p. 6].
 
-![Jean-Baptiste Debret. Paço da Quinta da Boa Vista em São
-Cristóvão, Rio de Janeiro, c. 1826 [@debret:1839voyage3, pl. X]
-](http://objdigital.bn.br/acervo_digital/div_iconografia/icon393054/icon393054_154.jpg){#fig:debret-mourisco}
+![Jean-Baptiste Debret. Paço da Quinta da Boa Vista em São Cristóvão, Rio de Janeiro, c. 1826 [@debret:1839voyage3, pl. X]](http://objdigital.bn.br/acervo_digital/div_iconografia/icon393054/icon393054_154.jpg){#fig:debret-mourisco}
 
 A leitura depreciativa deste "gosto mourisco" será talvez
 menos surpreendente, dada a vinculação teórica de Debret, do
@@ -870,10 +855,7 @@ descrição depreciativa explícita, para as leituras
 implícitas da arquitetura vernácula que transparecem na obra
 de Debret.
 
-![Henry Chamberlain. Uma historia, 1822 [@chamberlain:1822views]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Huma_historia_(2),_da_Coleção_Brasiliana_Iconográfica.jpg/1024px-Huma_historia_(2),_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:chamberlain}
-
-<!--_,-->
+![Henry Chamberlain. Uma historia, 1822 [@chamberlain:1822views]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Huma_historia_(2),\_da_Coleção_Brasiliana_Iconográfica.jpg/1024px-Huma_historia_(2),\_da_Coleção_Brasiliana_Iconográfica.jpg){#fig:chamberlain}
 
 De fato, Debret tratou da arquitetura vernácula do Rio de
 Janeiro sob um viés mais social do que artístico, como
@@ -939,12 +921,7 @@ com o triunfo do classicismo *à francesa* no início do
 século XIX, imediatamente abriu as portas para um novo
 ciclo de arabização artística e arquitetônica (@fig:bolsa).
 
-![Joaquim da Costa Lima. Palácio da Bolsa, sede da
-Associação Comercial do Porto, 1842--1848. Foto: Aurélio Paz
-dos Reis, anterior a 1894
-](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg){#fig:bolsa}
-
-<!--_-->
+![Joaquim da Costa Lima. Palácio da Bolsa, sede da Associação Comercial do Porto, 1842--1848. Foto: Aurélio Paz dos Reis, anterior a 1894](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa,\_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,\_iniciado_em_1894_(APR)\_(9289615971).jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa,\_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,\_iniciado_em_1894_(APR)\_(9289615971).jpg){#fig:bolsa}
 
 Paradoxalmente, este novo ciclo era, também, derivado de
 influências europeias:
@@ -971,8 +948,7 @@ elementos iconográficos da arquitetura erudita, destinados
 à ambientação de espaços ou mesmo superfícies considerados
 individualmente (@fig:monserrate).
 
-![James Thomas Knowles. Palácio de Monserrate, Sintra, após
-1856. Foto: [Rodrigo Tetsuo Argenton, 2019](https://commons.wikimedia.org/wiki/File:Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg/683px-Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg){#fig:monserrate}
+![James Thomas Knowles. Palácio de Monserrate, Sintra, após 1856. Foto: [Rodrigo Tetsuo Argenton, 2019](https://commons.wikimedia.org/wiki/File:Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg/683px-Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg){#fig:monserrate}
 
 A partir de finais do século XIX, os estudos etnográficos
 dariam ensejo a uma tímida busca pelo legado árabe na
@@ -1000,9 +976,5 @@ deu a essa reminiscência árabe na morada vernácula
 brasileira um protagonismo inigualado pelos revivalismos
 anteriores.
 
-![Muxarabiê no solar Monjope, de José Mariano Filho,
-1920--1928, baseado em documentação por Nereu Sampaio,
-Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa.
-[@mariannofilho:1943influencias]
-](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg){#fig:monjope}
+![Muxarabiê no solar Monjope, de José Mariano Filho, 1920--1928, baseado em documentação por Nereu Sampaio, Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa. [@mariannofilho:1943influencias]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg){#fig:monjope}
 
